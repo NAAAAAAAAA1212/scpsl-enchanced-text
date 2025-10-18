@@ -1,89 +1,87 @@
-<color=#8080FF>「🌀」</color> - <color=#8080FF>SCP-079</color> starts off relatively weak but gets more powerful as a match goes on.
-<color=#8080FF>「🌀」</color> - <color=#8080FF>SCP-079</color> can lock doors, turn off lights, and overcharge Tesla gates.
-<color=#8080FF>「🌀」</color> - A Tesla gate being looked at by <color=#8080FF>SCP-079</color> will always appear active.
-<color=#8080FF>「🌀」</color> - <color=#8080FF>SCP-079</color> is recontained using generators found in the Heavy Containment Zone, and a final button in its containment chamber.
-<color=#8080FF>「🌀」</color> - <color=#8080FF>SCP-079</color> can change its cameras’ zoom using the mouse wheel.
-<color=#8080FF>「🌀」</color> - The longer <color=#8080FF>SCP-079</color> has a door locked, the more power it will take to keep locked.
-<color=#8080FF>「🌀」</color> - <color=#8080FF>SCP-079</color> unlocks a breach scanner at level 4. If it detects a human hiding in a room, an alarm will sound.
-<color=#8080FF>「🌀」</color> - A camera being used by <color=#8080FF>SCP-079</color> will glow blue. Keep an eye out!
-<color=#8080FF>「🌀」</color> - At tier 5 <color=#8080FF>SCP-079</color> unlocks a zone-wide blackout. Causing lights in an entire zone to turn off.
-<color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-173</color> can move freely in dark rooms, even if it's being looked at. Bring a flashlight!
-<color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-173</color> can kill stealthily from behind.
-<color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-173</color> can create a puddle that slows down humans that walk through it — creating quick and efficient area-denial.
-<color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-106</color> can walk through doors and glass windows.
-<color=#EC2222>「🌀」</color> - While in Stalk, <color=#EC2222>SCP-106</color> can only see humans in a short radius around him.
-<color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-106</color> can open up a map of nearby rooms to teleport to, bound to ‘TAB’ by default.
-<color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-106</color>’s abilities rely on a resource known as ‘<color=#00AFFD>Vigor</color>’, which drains with each ability he uses.
-<color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-106</color> is most vulnerable immediately after emerging from the ground.
-<color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-096</color> is most vulnerable when it has just begun to calm down.
-<color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-096</color> can charge forward while enraged — breaking doors and damaging targets.
-<color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-096</color> will destroy doors and pry open closed gates when enraged.
-<color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-939</color> can mimic the voices of players it has previously killed.
-<color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-939</color> can release a cloud of amnestic gas. Humans under its effects cannot perceive <color=#EC2222>SCP-939</color> until it attacks.
-<color=#EC2222>「🌀」</color> - The lower <color=#EC2222>SCP-939</color>’s stamina is, the poorer its perception of players becomes.
-<color=#EC2222>「🌀」</color> - The longer <color=#EC2222>SCP-939</color>  is in Focus, the more effective Ultrasensitive becomes.
-<color=#EC2222>「🌀」</color> - Being attacked by <color=#EC2222>SCP-049</color> inflicts cardiac arrest on a human. Health and stamina drain rapidly during this time.
-<color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-049</color> can instantly kill any human already under the effects of cardiac arrest.
-<color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-049</color> can only reanimate corpses if they’re fresh.
-<color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-049</color> can give a small shield to <color=#EC2222>SCP-049-2</color> instances who are nearby.
-<color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-049-2</color> instances are vulnerable to headshots.
-<color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-049-2</color> instances make good scouts and are dangerous in large numbers.
-<color=#EC2222>「🌀」</color> - Most playable <color=#EC2222>SCP</color> instances have a secondary health bar called ‘<color=#8079FF>Hume Shield</color>’.
-<color=#EC2222>「🌀」</color> - <color=#EC2222>SCP</color> subjects have distinct footsteps from human ones. Listen carefully!
-<color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-3114</color> can disguise itself as a human class, be careful who you trust!
-<color=#EC2222>「🌀」</color> - After <color=#EC2222>SCP-3114</color> steals skin from a corpse, it will leave a pile of bones behind.
-<color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-3114</color>'s attacks are weak, however it can strangle a human by holding secondary attack.
-<color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-3114</color>'s strangulation renders it's victim immobile until it dies.
-<color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-3114</color> can break dance by the player typing Gingerbread on their keyboard. 
-<color=#EC2222>「💳」</color> - A bottle of <color=#EC2222>SCP-207</color> not only increases your movement speed, but will partially restore your health as well.
-<color=#EC2222>「💳」</color> - Up to three <color=#EC2222>SCP-207</color> bottles can be consumed, allowing for a significant multiplier to your speed.
-<color=#EC2222>「💳」</color> - <color=#EC2222>SCP-500</color> not only heals you but removes most negative effects, and provides regeneration afterwards.
-<color=#EC2222>「💳」</color> - While <color=#EC2222>SCP-268</color> makes you invisible to everyone else, <color=#8080FF>SCP-079</color> can still notice you.
-<color=#EC2222>「💳」</color> - <color=#EC2222>SCP-268</color> won’t save you from <color=#EC2222>SCP-096</color> if you’ve looked at him.
-<color=#EC2222>「💳」</color> - <color=#EC2222>SCP-018</color> is highly unpredictable. When it’s thrown, take cover.
-<color=#EC2222>「💳」</color> - <color=#EC2222>SCP-018</color> can be used to block off pursuers when bouncing in a hallway.
-<color=#EC2222>「💳」</color> - <color=#EC2222>SCP-330</color> can dispense six unique candies, each with their own effects. Take no more than two!
-<color=#EC2222>「💳」</color> - <color=#EC2222>SCP-1853</color> allows weapons to be reloaded faster, and decreases felt recoil.
-<color=#EC2222>「💳」</color> - <color=#EC2222>SCP-2176</color> can be used to lock down a room, or unlock a room or door locked by <color=#8080FF>SCP-079</color>.
-<color=#EC2222>「💳」</color> - <color=#EC2222>SCP-2176</color> can be used to stun <color=#8080FF>SCP-079</color> if used in a room currently being observed by it.
-<color=#EC2222>「💳」</color> - <color=#EC2222>SCP-244</color> slows down the speed at which items can be picked up, and stops SCPs from regenerating their shields.
-<color=#EC2222>「💳」</color> - <color=#EC2222>SCP-1576</color> allows living players to talk to spectators for a short time.
-<color=#EC2222>「💳」</color> - Anti-Cola (<color=#004B93>O-207-914 </color>) provides regeneration at the cost of your speed, it can also save your life in certain situations!
-<color=#0096FF>「\uf05b」</color> - You can disarm a player by interacting with them while holding a firearm.
-<color=#0096FF>「\uf05b」</color> - Maximize your advantage by adjusting your weapon attachments based on the situation you find yourself in.
-<color=#0096FF>「\uf05b」</color> - The more attachments a weapon has on it, the heavier it gets. This affects stamina usage and movement speed.
-<color=#0096FF>「\uf05b」</color> - Not only do suppressors muffle gunshots, they also hide muzzle flashes.
-<color=#0096FF>「\uf05b」</color> - Longer and heavier weapons are less accurate if fired while running.
-<color=#0096FF>「\uf05b」</color> - Armor-piercing rounds (AP) perform best against armored targets.
-<color=#0096FF>「\uf05b」</color> - Hollow-point rounds (JHP) do higher damage to unarmored targets but are weaker against armor.
-<color=#0096FF>「\uf05b」</color> - Press and hold the reload key to unload a weapon, adding its ammunition to your inventory.
-<color=#0096FF>「\uf05b」</color> - <color=#008F1C>Chaos Insurgency</color> weapons are powerful but their ammunition does not spawn in the Facility. Make it count.
-<color=#0096FF>「💥」</color> - Grenades can be used to destroy doors.
-<color=#0096FF>「💥」</color> - Grenades can be thrown with less force using the right mouse button.
-<color=#0096FF>「\uf05b」</color> - The <color=#003DCA>Micro H.I.D.</color> can kill most SCPs very quickly but has a limited power supply. Use it wisely!
-<color=#0096FF>「\uf05b」</color> - The <color=#003DCA>Micro H.I.D.</color> requires about five seconds of charging before it can fire.
-<color=#0096FF>「\uf05b」</color> - Holding right mouse button will keep the <color=#003DCA>Micro H.I.D.</color> at its ready-to-fire state; slowly draining energy.
-<color=#0096FF>「\uf05b」</color> - The <color=#003DCA>Micro H.I.D.</color> is very loud while charging. Make sure to use it while your targets can’t run away.
-<color=#0096FF>「\uf05b」</color> - Charging the <color=#003DCA>Micro H.I.D.</color> produces an intimidating sound which is enough to ruin your enemies' plans.
-<color=#0096FF>「💥」</color> - Flashbangs are especially effective against <color=#EC2222>SCP-939</color>
-<color=#e8b923>「⭐」</color> - <color=#FFFF7C>Scientists</color> and <color=#FF8E00>Class-D</color> must reach the surface to escape.
-<color=#e8b923>「⭐」</color> - <color=#556278>Facility Guards</color> are weak alone but have strength in numbers. Stick together!
-<color=#e8b923>「⭐」</color> - Escaped <color=#FF8E00>Class-D</color> join the <color=#559100>Chaos Insurgency</color>, while escaped <color=#FFFF7C>Scientists</color> become <color=#00D9FF>MTF</color>.
-<color=#e8b923>「⭐」</color> - <color=#0096FF>Mobile Task Force</color> units and <color=#008F1C>Chaos Insurgents</color> arrive at opposite ends of the Surface Zone.
-<color=#e8b923>「⭐」</color> - There are four main zones in the Facility: Light Containment, Heavy Containment, Entrance, and Surface.
-<color=#e8b923>「⭐」</color> - The Entrance Zone has two gates that provide access to the surface. You'll need a keycard to open them.
-<color=#e8b923>「⭐」</color> - Tesla gates are electric hazards found throughout the Heavy Containment Zone. Proceed with caution!
-<color=#e8b923>「⭐」</color> - The Alpha Warhead kills anything inside the Facility when it detonates. It can be activated from the Surface Zone.
-<color=#e8b923>「⭐」</color> - The Intercom room in the Entrance Zone can be used to broadcast a voice message to all players.
-<color=#e8b923>「⭐」</color> - The Light Containment Zone will lock down after 15 minutes; killing anyone left inside. Escape while you can!
-<color=#e8b923>「⭐」</color> - <color=#EC2222>SCP-914</color> can change all items, including weapons and ammunition.
-<color=#e8b923>「⭐」</color> - <color=#EC2222>SCP-914</color> can recharge radios and experimental weapons.
-<color=#e8b923>「⭐」</color> - <color=#EC2222>SCP-914</color> can create a number of unique items that can’t be found anywhere else. Feel free to experiment!
-<size=125%><color=#e8b923>「⭐」</color> - Subscribe to Xaira SCP:SL on Youtube!</color>
-<color=#e8b923>「⭐」</color> - Your stamina is a precious resource, reserve some for emergencies!
-<color=#e8b923>「⭐」</color> - Using an elevator is a quick and easy way to escape most <color=#EC2222>SCPs</color>.
-<color=#e8b923>「⭐」</color> - Adrenaline can be used to instantly refresh your stamina and gives you an advantage in combat.
-<color=#e8b923>「⭐」</color> - Radios have four range settings. The longer the range, the faster the battery drains.
-<color=#e8b923>「⭐」</color> - You can throw items (‘T’ by default). This can be used to open keycard doors from a distance or to break glass.
-<color=#e8b923>「⭐」</color> - Wearing body armor increases the number of items and ammo you can carry.
-<size=125%><color=#e8b923>「⭐」</color> - Subscribe to Xaira SCP:SL on Youtube!</color>
+<color=#8080FF>「🌀」</color> - <color=#8080FF>SCP-079</color>在开局时相对较弱，但随着游戏的进行会变得愈发强大。
+<color=#8080FF>「🌀」</color> - <color=#8080FF>SCP-079</color>可以锁门，熄灯，以及对特斯拉电网进行过载充能。
+<color=#8080FF>「🌀」</color> - 被<color=#8080FF>SCP-079</color>注视的特斯拉电网会一直显示为激活状态。
+<color=#8080FF>「🌀」</color> - 通过激活重收容区域的所有发电机后，按下其收容室内的终结按钮就能重新收容<color=#8080FF>SCP-079</color>。
+<color=#8080FF>「🌀」</color> - <color=#8080FF>SCP-079</color>可以使用鼠标滚轮来调整摄像头的变焦级别。
+<color=#8080FF>「🌀」</color> - <color=#8080FF>SCP-079</color>锁定门的时间越长，保持锁定所需的电量就越高。
+<color=#8080FF>「🌀」</color> - <color=#8080FF>SCP-079</color>在4级时解锁入侵扫描器。如果检测到人类躲藏在房间内，将会触发警报。
+<color=#8080FF>「🌀」</color> - 被<color=#8080FF>SCP-079</color>使用的摄像头会发出蓝光。请保持警惕！
+<color=#8080FF>「🌀」</color> - 在5级时<color=#8080FF>SCP-079</color>解锁区域范围断电能力，可关闭整个区域的灯光。
+<color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-173</color>可以在黑暗的房间中自由移动，即使被注视也是如此。请带上手电筒！
+<color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-173</color>可以从背后进行悄无声息的击杀。
+<color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-173</color>可以创造减速污池，对经过的人类减速——实现快速有效的区域控制。
+<color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-106</color>可以穿过门和玻璃窗。
+<color=#EC2222>「🌀」</color> - 在潜行模式下，<color=#EC2222>SCP-106</color>只能看到周围小范围内的人类。
+<color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-106</color>可以打开附近房间的地图进行传送，默认绑定‘TAB’键。
+<color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-106</color>的能力依赖名为"<color=#00AFFD>精力</color>"的资源，使用能力会消耗精力。
+<color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-106</color>从地面钻出后的瞬间最为脆弱。
+<color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-096</color>在刚开始平静下来时最为脆弱。
+<color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-096</color>在暴怒状态下可以向前冲锋——摧毁门并对目标造成伤害。
+<color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-096</color>在暴怒时会摧毁门并强行打开关闭的闸门。
+<color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-939</color>可以模仿它之前杀死的玩家的声音。
+<color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-939</color>可以释放遗忘气团。受其影响的人类无法感知到<color=#EC2222>SCP-939</color>，直到被攻击。
+<color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-939</color>的耐力越低，它对玩家的感知能力就越差。
+<color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-939</color>在专注状态下的时间越长，超敏感知的效果就越好。
+<color=#EC2222>「🌀」</color> - 被<color=#EC2222>SCP-049</color>攻击会使人类陷入心脏骤停状态，在此期间生命值和耐力会迅速流失。
+<color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-049</color>可以立即杀死任何已处于心脏骤停状态的人类。
+<color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-049</color>只能复活新鲜的尸体。
+<color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-049</color>可以为附近的<color=#EC2222>SCP-049-2</color>实例提供小型护盾。
+<color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-049-2</color>实例容易受到爆头攻击。
+<color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-049-2</color>实例是优秀的侦察兵，在数量众多时十分危险。
+<color=#EC2222>「🌀」</color> - 大多数可玩的<color=#EC2222>SCP</color>实例都有一个名为"<color=#8079FF>休谟护盾</color>"的次级生命条。
+<color=#EC2222>「🌀」</color> - <color=#EC2222>SCP</color>的脚步声与人类不同。请仔细聆听！
+<color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-3114</color>可以伪装成人类阵营，请小心你信任的人！
+<color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-3114</color>从尸体上偷取皮肤后，会留下一堆骨头。
+<color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-3114</color>的攻击力较弱，但可以通过长按次要攻击键来勒死人类。
+<color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-3114</color>的勒颈会使受害者无法移动直至死亡。
+<color=#EC2222>「🌀」</color> - <color=#EC2222>SCP-3114</color>可以通过玩家在键盘输入"Gingerbread"来跳霹雳舞。
+<color=#EC2222>「💳」</color> - 饮用一瓶<color=#EC2222>SCP-207</color>不仅能提高移动速度，还能部分恢复生命值。
+<color=#EC2222>「💳」</color> - 最多可饮用三瓶<color=#EC2222>SCP-207</color>，从而获得显著的速度加成。
+<color=#EC2222>「💳」</color> - <color=#EC2222>SCP-500</color>不仅能治疗你，还能移除大多数负面效果，并在之后提供持续恢复。
+<color=#EC2222>「💳」</color> - 虽然<color=#EC2222>SCP-268</color>能让你对其他人隐形，但<color=#8080FF>SCP-079</color>仍然能注意到你。
+<color=#EC2222>「💳」</color> - 如果你看到了<color=#EC2222>SCP-096</color>，<color=#EC2222>SCP-268</color>也救不了你。
+<color=#EC2222>「💳」</color> - <color=#EC2222>SCP-018</color>高度不可预测。当它被抛出时，请寻找掩护。
+<color=#EC2222>「💳」</color> - 当<color=#EC2222>SCP-018</color>在走廊弹跳时，可用于阻挡追击者。
+<color=#EC2222>「💳」</color> - <color=#EC2222>SCP-330</color>可提供六种独特糖果，每种都有不同效果。最多只能拿两颗！
+<color=#EC2222>「💳」</color> - <color=#EC2222>SCP-1853</color>能让武器更快装填，并减少后坐力。
+<color=#EC2222>「💳」</color> - <color=#EC2222>SCP-2176</color>可用于封锁房间，或解锁被<color=#8080FF>SCP-079</color>锁定的房间或门。
+<color=#EC2222>「💳」</color> - 如果在<color=#8080FF>SCP-079</color>正在观察的房间内使用<color=#EC2222>SCP-2176</color>，可暂时瘫痪它。
+<color=#EC2222>「💳」</color> - <color=#EC2222>SCP-244</color>会减慢拾取物品的速度，并阻止SCP恢复它们的护盾。
+<color=#EC2222>「💳」</color> - <color=#EC2222>SCP-1576</color>允许存活玩家与观战者短时间交谈。
+<color=#EC2222>「💳」</color> - 反可乐(<color=#004B93>O-207-914 </color>)以速度为代价提供生命恢复，在某些情况下可以救你的命！
+<color=#0096FF>「\uf05b」</color> - 您可以在持有枪械的情况下对其他玩家按住交互键来解除他们的武装。
+<color=#0096FF>「\uf05b」</color> - 根据您当下的情况适当改装武器配件，将您的优势最大程度地发挥出来。
+<color=#0096FF>「\uf05b」</color> - 一把武器上的配件越多，它就越重。这会影响到耐力消耗和移动速度。
+<color=#0096FF>「\uf05b」</color> - 消音器不仅能减小枪声，还能隐藏枪口火焰。
+<color=#0096FF>「\uf05b」</color> - 较长和较重的武器在奔跑时开火的精度较差。
+<color=#0096FF>「\uf05b」</color> - 穿甲弹（AP）对装甲目标的效果最好。
+<color=#0096FF>「\uf05b」</color> - 空尖弹（JHP）对无装甲目标造成更高伤害，但对装甲效果较差。
+<color=#0096FF>「\uf05b」</color> - 长按换弹键可以退出武器弹药，将其添加到您的库存中。
+<color=#0096FF>「\uf05b」</color> - <color=#008F1C>混沌分裂者</color>的武器威力强大但弹药不会在设施内生成。请珍惜使用。
+<color=#0096FF>「💥」</color> - 手雷可用于摧毁门。
+<color=#0096FF>「💥」</color> - 使用鼠标右键可以低抛投掷物。
+<color=#0096FF>「\uf05b」</color> - <color=#003DCA>Micro H.I.D.</color>可以快速杀死大多数SCP，但能量有限。请明智使用！
+<color=#0096FF>「\uf05b」</color> - <color=#003DCA>Micro H.I.D.</color>需要大约五秒充电时间才能发射。
+<color=#0096FF>「\uf05b」</color> - 按住鼠标右键将使<color=#003DCA>Micro H.I.D.</color>保持待发射状态；缓慢消耗能量。
+<color=#0096FF>「\uf05b」</color> - <color=#003DCA>Micro H.I.D.</color>充电时非常响亮。请确保在目标无法逃跑时使用。
+<color=#0096FF>「\uf05b」</color> - <color=#003DCA>Micro H.I.D.</color>充电时产生的声音具有威慑力，足以破坏敌人的计划。
+<color=#0096FF>「💥」</color> - 闪光弹对<color=#EC2222>SCP-939</color>特别有效。
+<color=#e8b923>「⭐」</color> - <color=#FFFF7C>科学家</color>和<color=#FF8E00>D级人员</color>必须到达地表才能逃生。
+<color=#e8b923>「⭐」</color> - <color=#556278>设施警卫</color>单独行动时较弱，但团结就是力量。请保持在一起！
+<color=#e8b923>「⭐」</color> - 成功逃生的<color=#FF8E00>D级人员</color>会加入<color=#559100>混沌分裂者</color>，而成功逃生的<color=#FFFF7C>科学家</color>会成为<color=#00D9FF>MTF</color>。
+<color=#e8b923>「⭐」</color> - <color=#0096FF>机动特遣队</color>和<color=#008F1C>混沌分裂者</color>在地表区域的两端抵达。
+<color=#e8b923>「⭐」</color> - 设施内有四个主要区域：轻收容区、重收容区、入口区和地表区。
+<color=#e8b923>「⭐」</color> - 入口区有两道通往地表的闸门。你需要钥匙卡才能打开它们。
+<color=#e8b923>「⭐」</color> - 特斯拉电网是重收容区遍布的电击陷阱。请小心行事！
+<color=#e8b923>「⭐」</color> - Alpha核弹头引爆时会杀死设施内的所有生物。可从地表区域激活。
+<color=#e8b923>「⭐」</color> - 入口区的广播室可用于向所有玩家广播语音消息。
+<color=#e8b923>「⭐」</color> - 轻收容区将在15分钟后封锁；杀死任何留在内部的人。请尽快逃生！
+<color=#e8b923>「⭐」</color> - <color=#EC2222>SCP-914</color>可以转换所有物品，包括武器和弹药。
+<color=#e8b923>「⭐」</color> - <color=#EC2222>SCP-914</color>可以为对讲机和实验性武器充电。
+<color=#e8b923>「⭐」</color> - <color=#EC2222>SCP-914</color>可以创造许多在其他地方找不到的独特物品。尽情实验吧！
+<color=#e8b923>「⭐」</color> - 您的耐力是宝贵资源，请预留一些以备紧急情况！
+<color=#e8b923>「⭐」</color> - 使用电梯是摆脱大多数<color=#EC2222>SCP</color>的快捷方法。
+<color=#e8b923>「⭐」</color> - 肾上腺素可以立即恢复您的耐力，并在战斗中给您带来优势。
+<color=#e8b923>「⭐」</color> - 对讲机有四种范围设置。范围越长，电池消耗越快。
+<color=#e8b923>「⭐」</color> - 您可以投掷物品（默认按‘T’键）。这可用于从远处打开钥匙卡门或打破玻璃。
+<color=#e8b923>「⭐」</color> - 穿戴防弹衣可以增加您能携带的物品和弹药数量。

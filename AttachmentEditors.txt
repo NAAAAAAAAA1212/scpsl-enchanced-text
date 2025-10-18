@@ -1,18 +1,18 @@
-Custom
-Preset #[index]
-SAVE
-CLEAR ATTACHMENTS
-Default
-PRESETS
+自定义
+预设 #[index]
+保存
+清空配件配置
+默认配置
+预设
 <size=275><color=#ff0000>🔒</color>
-<size=64><color=#ccc>SITE-02 FIREARM CUSTOMIZATION POINT</color>\n<size=34><color=#ccc>AUTHORIZED PERSONNEL ONLY.</color></size>
+<size=64><color=#ccc>SITE-02 枪械配置自定义点</color>\n<size=34><color=#ccc>仅限已授权人员。</color></size>
 <size=275><color=orange>🔒</color></size>
-WORKSTATION IS BOOTING UP
+工作站正在启动中
 <size=275><color=#0c0>🔓</color>
-<size=85><color=#ccc>SITE-02 FIREARM CUSTOMIZATION POINT</color></size>
+<size=85><color=#ccc>SITE-02 枪械配置自定义点</color></size>
 <size=275><color=orange>🔓</color>
-WORKSTATION IS SHUTTING DOWN
-SHOW SUMMARY
-CLOSE SUMMARY
-[Attachment] Customization
-Press [Key] to edit attachments.
+工作站正在关闭中
+显示概要
+关闭概要
+[Attachment] 自定义
+按下 [Key] 键进行配件改装

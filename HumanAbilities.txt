@@ -1,7 +1,7 @@
-Sprint:Increases your movement speed, but also increases sound made while moving.
-Sneak:Your movements become silent, at the cost of a lot of speed.
-Inventory:Open your inventory and select an item you have picked up using LMB, or drop it using RMB.
-Unarmed:You have nothing. Find something. Anything.
-Access Card:You have an access card, it's not the best but don't lose it.
-Standard Issue:You are equipped with a Firearm, an Access Card, and some utility items.
-Armed & Dangerous:You have been consigned with heavy weaponry, an Access Device, and medical supplies.
+奔跑:提升你的移动速度，同时发出更大的响声。
+潜行:无声行走，但降低你的移动速度。
+背包:打开你的背包，按下鼠标左键(LMB)拿出你捡起的物品，按下鼠标右键(RMB)丢弃。
+手无寸铁:你一无所有，快去找点东西，什么都行。
+钥匙卡:你身上有一张钥匙卡，虽说眼下用处不大，但也别丢了它。
+标准配给:你装备了一把枪，一张钥匙卡以及一些有用的物品。
+武装威胁:你配备了重火力武器，以及一部访问装置，和一些医疗物品。

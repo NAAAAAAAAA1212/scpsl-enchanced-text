@@ -1,8 +1,8 @@
-ATTACK COOLDOWN
-Unavailable on Surface.
-Unavailable during elevator travel.
-An unstoppable force capable of easily bypassing any door in the facility.
-<b>\uf714 - Capture</b>:Ensnares a human in close distance, entrapping them within the pocket dimension — a deadly prison dictated by your rule. The joy of capturing new prey replenishes Vigor.
-<b>\uf21d - Stalk</b>:Submerges you into the floor. Move around quickly and invisibly, regenerate, and prepare to strike your prey. Uses Vigor, which regenerates slowly while Stalk is inactive.
-<b>\uf279 - Hunter’s Atlas</b>:Quickly move to a nearby room, at a great Vigor cost. Such movement is instinct to you, having prowled through the Site's corridors for as long as you have.
-<b>\uf728 - Blissful Agony</b>:While Stalking, you can only see injured humans. The greater their agony, the greater the distance you can spot them from. Escapees of the pocket dimension are traumatized, leaving them visible from anywhere.
+攻击冷却
+地表区域无法使用
+电梯运行期间无法使用
+不可阻挡的能力使你能轻易地穿过设施内的任何门
+<b>\uf714 - 捕获</b>:抓捕近距离的人类，将他们困入口袋次元——这个由你规则主宰的致命监狱。捕获新猎物的喜悦会恢复你的精力
+<b>\uf21d - 潜伏狩猎</b>:让你潜入地面，快速隐形移动，恢复护盾并为突袭猎物做准备。会消耗精力，未激活潜伏狩猎时精力会缓慢恢复
+<b>\uf279 - 猎人地图</b>:快速移动到附近房间，但会消耗大量精力。这种移动对你来说纯属本能，毕竟你已在设施走廊中徘徊了太久
+<b>\uf728 - 痛苦的香气</b>:潜伏期间只能看到受伤的人类。他们承受的痛苦越深，你能发现他们的距离就越远。从口袋次元逃脱者会留下创伤，使你在潜伏时能从任何位置发现他们

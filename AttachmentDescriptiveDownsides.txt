@@ -1,2 +1,2 @@
-Laser is visible to others
-No bonus damage for headshots
+其他人也能看到激光瞄点
+爆头不能造成额外伤害

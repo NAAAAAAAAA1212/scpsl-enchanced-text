@@ -1,57 +1,57 @@
-0~<color=#27E1D4>Janitor</color>
-1~<color=#27E1D4>Scientist</color>
-2~<color=#27E1D4>Research Supervisor</color>
-3~<color=#27E1D4>Zone Manager</color>
-4~<color=#27E1D4>Guard</color>
-5~<color=#27E1D4>MTF Private</color>
-6~<color=#27E1D4>Containment Engineer</color>
-7~<color=#27E1D4>MTF Operative</color>
-8~<color=#27E1D4>MTF Captain</color>
-9~<color=#27E1D4>Facility Manager</color>
-10~<color=#27E1D4>Chaos Insurgency Access Device</color>
-11~<color=#27E1D4>05-level</color>
-12~<color=#DFCA09>Radio~Used to communicate with your allies \n Longer ranges can be heard further, but drains faster.</color>
-13~<color=#6914b7>COM-15</color>
-14~<color=#498944>First Aid Kit~Heals your injuries.\n <color=#00FF00>+65hp after 5s</color>
-15~<color=#DFCA09>Flashlight~Used to provide Emergency Lighting if needed.</color>
-16~<color=#F05F5F>Micro H.I.D.~Windup: <color=#00FF00>3s/7s</color> \n DPS: <color=#00FF00>400/1000</color> \n RMB: <color=#00FF00>Force opens doors. \n <color=#FFFF00>+30% Stamina Consumption</color> \n <color=#EC2222>Don't hold charge for too long..</color>
-17~<color=#8C0C0C>S<color=#9e0e0e>C<color=#B00F0F>P<color=#C21111>-<color=#D51212>5<color=#E71414>0<color=#EC2222>0~<color=#00FF00>+200hp over 10s \n Reverses all negative status effects</color>
-18~<color=#8C0C0C>S<color=#9e0e0e>C<color=#B00F0F>P<color=#C21111>-<color=#D51212>2<color=#E71414>0<color=#EC2222>7~<color=#00FF00>+30HP after 5s \n Faster Movement Speeds \n <color=#F5650A>Drains HP over Time</color> \n <color=#EC2222>Doesn't Mix well with other liquids</color>
-20~<color=#6914B7>MTF-E11-SR</color>
-21~<color=#6914B7>Crossvec</color>
-23~<color=#6914B7>FSP-9</color>
-24~<color=#6914B7>Logicer</color>
-25~<color=#6761CE>High-Explosive Grenade~<color=#00FF00>Arm Time 3.5s \n 900-300 damage in 1.5 meters \n Deals double the damage to Hume Shield \n <color=#FFFF00> Applies Burned and Concussed \n <color=#FF0000>Weaker against Humans</color>
-26~<color=#6761CE>Flashbang Grenade~<color=#00FF00>Arm Time 2.8s \n Max Blind Time 5s \n <color=#FFFF00> Applies Flashed and Deafened</color>
-30~<color=#6914B7>USP</color>
-31~<color=#8C0C0C>S<color=#9E0E0E>C<color=#B00F0F>P<color=#C21111>-<color=#D51212>0<color=#E71414>1<color=#EC2222>8~Manufactured by Blam-O \n <color=#F5650A>Lasts 80s \n <color=#FF0000>Deals More Damage the Faster it Goes</color>
-32~<color=#8C0C0C>S<color=#9E0E0E>C<color=#B00F0F>P<color=#C21111>-<color=#D51212>2<color=#E71414>6<color=#EC2222>8~<color=#00FF00>Invisibility against normal targets for 15s \n <color=#FFFF00>Cancelled upon user interaction</color>
-33~<color=#498944>Adrenaline~Temporarily increases endurance.\n<color=#00FF00>+40AHP, Slowly decays.\n<color=#FFFF00>Refills Stamina, halts further stamina usage for 8s</color>
-34~<color=#498944>Painkillers~Relieve minor injuries.\n <color=#00FF00>+50hp over 15s</color>
-35~<color=#DFCa09>Coin~Oh Hey! A Quarter!</color>
-36~<color=#203e78>Light Armor</color>
-37~<color=#203e78>Combat Armor</color>
-38~<color=#203e78>Heavy Armor</color>
-39~<color=#6914b7>.44 Revolver</color>
-40~<color=#6914b7>AK</color>
-41~<color=#6914b7>DP-12</color>
-42~<color=#DFCa09>Bag of Candies~A bag containing the following candies:</color>
-43~<color=#7a0a0a>S<color=#8C0C0C>C<color=#9E0E0E>P<color=#b00f0f>-<color=#c21111>2<color=#d51212>1<color=#E71414>7<color=#EC2222>6~<color=#00FF00> Toggles <color=#8080ff>079's</color> <color=#FFFF00>Abilities<color=#00FF00> within affected room for 13s</color>
-44~<color=#7A0B0B>S<color=#8C0C0C>C<color=#9E0E0E>P<color=#B00F0F>-<color=#c21111>2<color=#d51212>4<color=#E71414>4<color=#EC2222>-<color=#EE3434>A~Cold To The Touch... \n <color=#FFFF00>Area of Effect \n <color=#F5650A>Slows Down All Actions \n <color=#FF0000>Drains Hume Shield and HP</color>
-45~<color=#7A0B0B>S<color=#8C0C0C>C<color=#9E0E0E>P<color=#b00f0f>-<color=#c21111>2<color=#d51212>4<color=#E71414>4<color=#EC2222>-<color=#EE3434>B~Cold To The Touch... \n <color=#FFFF00>Area of Effect \n <color=#F5650A>Slows Down All Actions \n <color=#FF0000>Drains Hume Shield and HP</color>
-46~<color=#7A0B0B>S<color=#8C0C0C>C<color=#9E0E0E>P<color=#B00F0F>-<color=#C21111>1<color=#D51212>8<color=#E71414>5<color=#EC2222>3~<color=#00FF00>+20% Item Manipulation \n +25% Recoil Control \n +30% ADS Control \n -60% Pickup Time \n <color=#EC2222>Doesn't Mix well with other liquids</color>
-47~<color=#F05F5F>3-X Particle Disruptor</color>
-48~<color=#F05F5F>COM-45</color>
-49~<color=#7a0a0a>S<color=#8C0C0C>C<color=#9E0E0E>P<color=#b00f0f>-<color=#c21111>1<color=#d51212>5<color=#E71414>7<color=#EC2222>6~<color=#00FF00>Talk to the dead for 30 seconds \n 120 seconds cooldown</color>
-50~<color=#F05F5F>Jailbird</color>
-51~<color=#F05F5F>A207</color>~The opposite of <color=#8C0C0C>S<color=#9e0e0e>C<color=#B00F0F>P<color=#C21111>-<color=#D51212>2<color=#E71414>0<color=#EC2222>7</color>\n<color=#00FF00>Grants one pass to death..</color>
-52~<color=#6914B7>FR-MG-0</color>
-53~<color=#6914B7>A7</color>
-54~<color=#DFCA09>Lantern~Used to provide Emergeny Lighting around you if needed. \nIts name is "Daniel".</color>
-55~<color=#7A0B0B>S<color=#8C0C0C>C<color=#9E0E0E>P<color=#B00F0F>-<color=#C21111>1<color=#D51212>3<color=#E71414>4<color=#EC2222>4~<color=#00FF00>Allows you to see anyone within 18m \n <color=#F5650A>The orbs fade out over 1s</color> \n <color=#F5650A>The orbs fade in after 5s</color> \n <color=#EC2222>Everyone you see is alerted of your presence</color>
-56~Snowball~<color=#00FF00> 15/30 Damage \n 2x Headshot Damage \n Ignores Hume Shield</color>
-57~Coal~You are on the naugthy list!
-58~Coal?~Teleports target hit to an <color=red>SCP</color>
-59~<color=#27E1D4>Tape Player?</color>~Contains an unlabeled tape. Please don’t play it. Please.
-61~<color=#27E1D4>Surface Pass</color>~Single-use access pass for opening exit gates.
+0~<color=#27E1D4>清洁工钥匙卡</color>
+1~<color=#27E1D4>科学家钥匙卡</color>
+2~<color=#27E1D4>研究主管钥匙卡</color>
+3~<color=#27E1D4>区域总监钥匙卡</color>
+4~<color=#27E1D4>警卫钥匙卡</color>
+5~<color=#27E1D4>MTF列兵钥匙卡</color>
+6~<color=#27E1D4>收容工程师钥匙卡</color>
+7~<color=#27E1D4>MTF特工钥匙卡</color>
+8~<color=#27E1D4>MTF指挥官钥匙卡</color>
+9~<color=#27E1D4>设施总监钥匙卡</color>
+10~<color=#27E1D4>混沌分裂者破解装置</color>
+11~<color=#27E1D4>O5级别钥匙卡</color>
+12~<color=#DFCA09>对讲机</color>~用于与友方通信\n通信范围越远，可听距离越远，但耗电更快。
+13~<color=#6914b7>COM-15手枪</color>
+14~<color=#498944>急救包</color>~治疗伤势\n<color=#00FF00>5秒后恢复65点生命值</color>
+15~<color=#DFCA09>手电筒</color>~需要时可提供应急照明
+16~<color=#F05F5F>Micro H.I.D.</color>~充能时间：<color=#00FF00>3秒/7秒</color>\n秒伤：<color=#00FF00>400/1000</color>\n右键：<color=#00FF00>强制开门</color>\n<color=#FFFF00>+30%耐力消耗</color>\n<color=#EC2222>切勿长时间保持充能状态</color>
+17~<color=#8C0C0C>S<color=#9e0e0e>C<color=#B00F0F>P<color=#C21111>-<color=#D51212>5<color=#E71414>0<color=#EC2222>0</color>~<color=#00FF00>10秒内恢复200点生命值\n消除所有负面状态效果</color>
+18~<color=#8C0C0C>S<color=#9e0e0e>C<color=#B00F0F>P<color=#C21111>-<color=#D51212>2<color=#E71414>0<color=#EC2222>7</color>~<color=#00FF00>5秒后恢复30点生命值\n提升移动速度</color>\n<color=#F5650A>随时间持续损失生命值</color>\n<color=#EC2222>不宜与其他液体混合使用</color>
+20~<color=#6914B7>MTF-E11-SR步枪</color>
+21~<color=#6914B7>Crossvec冲锋枪</color>
+23~<color=#6914B7>FSP-9冲锋枪</color>
+24~<color=#6914B7>Logicer轻机枪</color>
+25~<color=#6761CE>高爆手雷</color>~<color=#00FF00>准备时间3.5秒\n1.5米内造成900-300点伤害\n对休谟护盾造成双倍伤害</color>\n<color=#FFFF00>施加灼伤和震荡效果</color>\n<color=#FF0000>对人类效果较弱</color>
+26~<color=#6761CE>闪光弹</color>~<color=#00FF00>准备时间2.8秒\n最大致盲时间5秒</color>\n<color=#FFFF00>施加闪光和致聋效果</color>
+30~<color=#6914B7>USP手枪</color>
+31~<color=#8C0C0C>S<color=#9E0E0E>C<color=#B00F0F>P<color=#C21111>-<color=#D51212>0<color=#E71414>1<color=#EC2222>8</color>~Blam-O公司制造\n<color=#F5650A>持续80秒</color>\n<color=#FF0000>速度越快造成伤害越高</color>
+32~<color=#8C0C0C>S<color=#9E0E0E>C<color=#B00F0F>P<color=#C21111>-<color=#D51212>2<color=#E71414>6<color=#EC2222>8</color>~<color=#00FF00>对普通目标隐形15秒</color>\n<color=#FFFF00>使用者进行交互时效果消失</color>
+33~<color=#498944>肾上腺素</color>~暂时提升耐力\n<color=#00FF00>+40额外生命值，缓慢衰减</color>\n<color=#FFFF00>恢复耐力，8秒内暂停耐力消耗</color>
+34~<color=#498944>止痛药</color>~缓解轻伤\n<color=#00FF00>15秒内恢复50点生命值</color>
+35~<color=#DFCa09>硬币</color>~哦嘿！一枚硬币！
+36~<color=#203e78>轻型护甲</color>
+37~<color=#203e78>战术护甲</color>
+38~<color=#203e78>重型护甲</color>
+39~<color=#6914b7>.44左轮手枪</color>
+40~<color=#6914b7>AK步枪</color>
+41~<color=#6914b7>DP-12霰弹枪</color>
+42~<color=#DFCa09>糖果袋</color>~内含以下糖果：
+43~<color=#7a0a0a>S<color=#8C0C0C>C<color=#9E0E0E>P<color=#b00f0f>-<color=#c21111>2<color=#d51212>1<color=#E71414>7<color=#EC2222>6</color>~<color=#00FF00>在受影响房间内切换<color=#8080ff>SCP-079</color>的<color=#FFFF00>能力</color>持续13秒</color>
+44~<color=#7A0B0B>S<color=#8C0C0C>C<color=#9E0E0E>P<color=#B00F0F>-<color=#c21111>2<color=#d51212>4<color=#E71414>4<color=#EC2222>-<color=#EE3434>A</color>~触感冰冷…\n<color=#FFFF00>范围效果</color>\n<color=#F5650A>减缓所有动作速度</color>\n<color=#FF0000>持续消耗休谟护盾与生命值</color>
+45~<color=#7A0B0B>S<color=#8C0C0C>C<color=#9E0E0E>P<color=#b00f0f>-<color=#c21111>2<color=#d51212>4<color=#E71414>4<color=#EC2222>-<color=#EE3434>B</color>~触感冰冷…\n<color=#FFFF00>范围效果</color>\n<color=#F5650A>减缓所有动作速度</color>\n<color=#FF0000>持续消耗休谟护盾与生命值</color>
+46~<color=#7A0B0B>S<color=#8C0C0C>C<color=#9E0E0E>P<color=#B00F0F>-<color=#C21111>1<color=#D51212>8<color=#E71414>5<color=#EC2222>3</color>~<color=#00FF00>+20%物品操作速度\n+25%后坐力控制\n+30%瞄准控制\n-60%拾取时间</color>\n<color=#EC2222>不宜与其他液体混合使用</color>
+47~<color=#F05F5F>3-X粒子干扰器</color>
+48~<color=#F05F5F>COM-45手枪</color>
+49~<color=#7a0a0a>S<color=#8C0C0C>C<color=#9E0E0E>P<color=#b00f0f>-<color=#c21111>1<color=#d51212>5<color=#E71414>7<color=#EC2222>6</color>~<color=#00FF00>与死者交谈30秒\n120秒冷却时间</color>
+50~<color=#F05F5F>囚鸟</color>
+51~<color=#F05F5F>A207</color>~<color=#8C0C0C>S<color=#9e0e0e>C<color=#B00F0F>P<color=#C21111>-<color=#D51212>2<color=#E71414>0<color=#EC2222>7</color>的反向版本\n<color=#00FF00>获得一次免死机会</color>
+52~<color=#6914B7>FR-MG-0轻机枪</color>
+53~<color=#6914B7>A7步枪</color>
+54~<color=#DFCA09>手提灯</color>~需要时可提供周围应急照明\n它的名字叫"Daniel"
+55~<color=#7A0B0B>S<color=#8C0C0C>C<color=#9E0E0E>P<color=#B00F0F>-<color=#C21111>1<color=#D51212>3<color=#E71414>4<color=#EC2222>4</color>~<color=#00FF00>可感知18米内任何人</color>\n<color=#F5650A>光球在1秒内淡出</color>\n<color=#F5650A>光球在5秒后淡入</color>\n<color=#EC2222>所有被你看到的人都会收到警示</color>
+56~雪球~<color=#00FF00>15/30点伤害\n2倍爆头伤害\n无视休谟护盾</color>
+57~煤块~你在淘气名单上！
+58~煤块？~将命中目标传送至<color=red>SCP</color>附近
+59~<color=#27E1D4>磁带播放器？</color>~内含未标记磁带。请不要播放。拜托了。
+61~<color=#27E1D4>地表通行证</color>~一次性通行凭证，用于开启出口闸门
 62~<color=#8C0C0C>S<color=#9e0e0e>C<color=#B00F0F>P<color=#C21111>-<color=#D51212>1<color=#E71414>2<color=#EC2222>7</color>

@@ -1,31 +1,31 @@
-Ability Not Found:The ability ID associated with this ability does not exist.
-Sprint:Increases your movement speed, but also increases sound made while moving.
-Sneak:Your movements become silent, at the cost of a lot of speed.
-Inventory:Open your inventory and select an item you have picked up using LMB, or drop it using RMB.
-Unarmed:You have nothing. Find something. Anything.
-Access Card:You have an access card, it's not the best but don't lose it.
-Standard Issue:You are equipped with a Rifle, Grenades, a Radio and an Access Card.
-Armed & Dangerous:You have consigned a Light Machine Gun, a Hacking Tool (access card), and a First-Aid Kit.
-Breakneck Speeds:No matter where they hide, you will find them in little time, and they will see you for less. Double your movement speed and blink distance, at the cost of your lethality. Lasts until shortly after being witnessed, or cancelled manually.
-Blink:Once they lay eyes on you, make them regret breaking sight, even for a moment. When the eye turns crimson, hold and move the indicator to a desired location. Release to teleport and kill the nearest human within 2 meters.
-Sinkhole:You can place a black pool of corrosion and teleport back to it at any time. Teleporting takes a few seconds.\nYou can move your sinkhole by placing it again.
-Corrosion:You can move through doors by walking into them.
-Swan Song: You take almost no damage from bullets, but you can be instantly recontained via a human sacrifice within your containment chamber.
-Pocket Dimension:Captures a human and teleports them to a pocket dimension that quickly kills them. Humans must choose the correct exit, or die.
-Scopophobia:You start docile, and become enraged when you're seen or hurt. Quell your rage by killing transgressors - follow their light before your fury subsides. The indignity of each offender adds to your AHP, preventing harm to you as long as it stands.
-Try Not To Cry (Docile):It's too hard. Leaning on a door helps; you become quieter and stand in place against it, calming yourself down... or waiting for someone to come through.
-Melee Attack (Rage):Tear through anything in your way to get to those who've hurt you. Your attacks will destroy doors and kill most humans instantly.
-Ultrasensitive:You can't see humans unless they run, bump you, or fire a weapon in close proximity to you.
-Predator:Your footsteps are silent. Holding the assigned key increases your speed, but makes your movement audible.
-Mimic:You can speak out loud to any nearby players, including humans.
-Bite:Attacks a human in melee range, instantly dealing severe damage.
-Antidote:Touches a human within close range, instantly killing them.
-The Cure:Reanimates a recently killed human. Cured humans play as zombies with fast movement and low health.\nThere is no limit on how many humans can be reanimated.
-Strike:Attacks a human and deals a moderate amount of damage to them.
-Open/Close Doors:You can interact with doors to open and close them for 5 AP. You can also lock them down, draining your AP but preventing anyone from opening or closing it until you lift the lockdown or run out of AP.
-Tesla Overcharge:You can activate a Tesla Gate for 50 AP to instantly trigger it, killing any players in or near it.
-Lockdown:Starting at Access Level 2, you can interact with some rooms to lock them down, shutting off all lights and closing all doors. While in locked down rooms, humans can't see SCP-173.
-Virtually Indestructible: Three generators spawn across the Heavy Containment Zone. If all of them are unlocked and activated, you become recontained.\nGenerators have a countdown sequence that any player can interrupt by pressing the "CANCEL" button on the generator.
-Reinforced Concrete:Accept their gazes of admiration, but stand your ground against their vandalism. You have built-in resistance to gunfire. Low-penetration weapons deal significantly less damage compared to piercing weaponry.
-Charge (Rage):Cut their escapes short - they deserve it. You bolt straight ahead, demolishing anything in front of you for a short distance. If you hit a heavy gate, you force yourself through it.
-Tantrum:Let them know your fury. Create a pool of filth underneath you that stains and greatly inhibits the mobility of humans who pass through it. Killing stained humans will recover some of your Hume Shield.
+能力未找到：与此能力关联的能力ID不存在。
+冲刺：提高移动速度，但同时会增加移动时发出的声音。
+潜行：移动变得无声，但会牺牲大量速度。
+库存：打开物品栏，使用左键选择拾取的物品，或使用右键丢弃物品。
+徒手：你手无寸铁。快找点东西，什么都行。
+门禁卡：你有一张门禁卡，虽然不是最好的，但别弄丢了。
+标准装备：你配备了一把步枪、手榴弹、一个对讲机和一张门禁卡。
+全副武装：你配备了一挺轻机枪、一个黑客工具（门禁卡）和一个急救包。
+疾速追击：无论他们躲在哪里，你都能迅速找到他们，而他们看到你的时间会更短。移动速度和瞬移距离加倍，但会降低你的致命性。效果持续到被目击后不久或手动取消。
+瞬移杀戮：一旦他们看到你，就要让他们为移开视线后悔，哪怕只是一瞬间。当眼睛变成深红色时，按住并将指示器移动到所需位置。松开即可瞬移并杀死2米内的最近人类。
+腐蚀陷坑：你可以放置一个黑色腐蚀池，并随时传送回该位置。传送需要几秒钟。\n你可以通过再次放置来移动你的陷坑位置。
+腐蚀穿行：你可以通过走向门来穿过它们。
+临终绝唱：你几乎不受子弹伤害，但可以通过在你的收容室中进行活人献祭来立即重新收容你。
+口袋维度：捕获人类并将其传送至一个会快速杀死他们的口袋维度。人类必须选择正确的出口，否则就会死亡。
+视线恐惧症：你起初温顺，在被看到或受伤时会变得狂怒。通过杀死冒犯者来平息你的怒火——在你的愤怒消退前跟随他们的光源。每个冒犯者带来的羞辱会转化为你的AHP，只要AHP存在就能防止你受到伤害。
+试着别哭（温顺状态）：这太难了。倚靠在门上会有所帮助；你会变得更安静并靠门站立，以此让自己冷静下来……或者等待有人进来。
+近战攻击（狂怒状态）：撕碎前方的一切，去找那些伤害你的人。你的攻击会摧毁门并瞬间杀死大多数人类。
+超敏感知：你无法看到人类，除非他们奔跑、撞到你或在离你很近的地方开火。
+掠食者：你的脚步声是无声的。按住指定按键会提高你的速度，但会使你的移动变得可闻。
+拟声：你可以对任何附近的玩家（包括人类）大声说话。
+撕咬：攻击近战范围内的人类，立即造成严重伤害。
+死亡触碰：触碰近距离内的人类，立即将其杀死。
+治愈复苏：复活最近被杀死的人类。被治愈的人类将以僵尸形态游戏，拥有快速移动和低生命值。\n可复活的人类数量没有限制。
+打击：攻击人类并对其造成中等伤害。
+开门/关门：你可以与门互动以开关门，消耗5点AP。你还可以封锁门，持续消耗你的AP，但在你解除封锁或AP耗尽之前，任何人都无法开关它。
+特斯拉过载：你可以消耗50点AP激活一个特斯拉电网，立即触发它，杀死其中或附近的所有玩家。
+区域封锁：从访问等级2开始，你可以与某些房间互动以封锁它们，关闭所有灯光并关闭所有门。在封锁的房间内，人类无法看到SCP-173。
+近乎无敌：三台发电机在重收容区生成。如果它们全部被解锁并激活，你将被重新收容。\n发电机有一个倒计时序列，任何玩家都可以通过按下发电机上的"取消"按钮来中断它。
+强化混凝土：接受他们钦佩的目光，但要坚守阵地对抗他们的破坏行为。你天生具有对枪火的抵抗力。低穿透性武器造成的伤害显著低于穿透性武器。
+冲锋（狂怒状态）：切断他们的退路——他们罪有应得。你向前猛冲一小段距离，摧毁前方的一切。如果你撞到重型闸门，你会强行穿过它。
+暴怒践踏：让他们知道你的愤怒。在你脚下创造一个污秽池，玷污并极大抑制穿过其中的人类机动性。杀死被玷污的人类将恢复你的一部分休谟护盾。

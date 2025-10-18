@@ -1,28 +1,28 @@
-MUTED BY ADMIN
-GLOBALLY MUTED
-UNAUTHENTICATED
-ADJUST PRIVACY SETTINGS
-Your microphone is disabled due to your privacy settings.
-Voice Chat Privacy Settings
-This game uses voice chat. Using the push-to-talk keys (default "Q" and "V") will capture your microphone input and transmit it to other users connected to the server.\nCertain game features may temporarily store short samples of your transmissions, which will be automatically erased after disconnecting from the server.
-Reject all (disable microphone capture)
-Personalize settings
-Accept all
-Accept
-Deny
-Microphone Capture
-Allow the game to capture your microphone and transmit it to users when push-to-talk keys are held. A microphone icon will be displayed at the bottom of the screen, indicating active transmission. The game will never transmit, or use your microphone without the indicator being visible.
-Short Recordings
-Allow game mechanics to use short recordings of your voice. This includes SCP-939's "With Many Voices" ability, which can record and play back short voice samples of killed players. All recordings are discarded the moment you leave the server, or once the round restarts.
-Apply settings
-Return
-Press "[key]" and navigate to "Settings" to adjust.
-<size=135%><b>👥</b> Mute alive players -</size>
-<size=135%><b>\uf06e</b> Mute spectators -</size>
-<size=135%><b>🎮</b> Mute pre-game lobby -</size>
-Pre-game Lobby Chat
-Round Summary Global Chat
-Spectator Chat
-Alive Players' Chat while Spectating
-Muted
-Unmuted
+已被管理员禁言
+已被全球禁言
+未经身份验证无法发言
+修改隐私设置
+由于您的隐私设置，您的麦克风已被禁用。
+语音聊天的隐私设置
+本游戏使用了语音聊天。使用按键（默认为 "Q "和 "V"）将捕获您的麦克风输入，并将其传输给连接到服务器的其他用户。\n某些游戏机制可能会暂时存储您传输的简短录音，这些录音会在与服务器断开连接后自动删除。
+拒绝全部（禁用麦克风捕获）
+个性化设置
+同意全部
+同意
+拒绝
+麦克风捕获
+允许游戏捕获您的麦克风，并在按下语音键时传输给其他用户。屏幕底部将显示一个麦克风指示图标，表示正在使用麦克风。游戏不会一直传输，或在指示图标不可见时使用您的麦克风。
+简短的录音
+允许游戏机制对您的声音进行简短的录音。其中包括SCP-939的“千喉”能力，它可以录制和回放受害者的简短录音。所有的录音都会在您离开服务器的那一刻，或回合重新开始时被删除。
+应用设置
+返回
+按下"[key]"键进入"设置"进行更改。
+<size=135%><b>👥</b> 静音存活玩家 -</size>
+<size=135%><b>\uf06e</b> 静音观察者 -</size>
+<size=135%><b>🎮</b> 静音准备阶段的语音 -</size>
+准备阶段的语音
+静音回合总结的全局语音
+观察者的语音
+存活玩家的语音
+静音
+未静音

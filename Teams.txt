@@ -1,7 +1,7 @@
-<color=#EC2222>➰ - SCP SUBJECTS</color>
-<color=#5B6370>🚓 - FACILITY PROTECTION</color> & <color=#0096FF>🚁 MOBILE TASK FORCE</color>
-<color=#008F1C>🚙 - UNKNOWN</color>
-<color=#FFFF7C>🔬 - RESEARCHER(S)</color>
-<color=#FF8E00>📋 - CLASS-D PERSONNEL</color>
-Dead
-Unclassified
+<color=#EC2222>➰ - SCP项目</color>
+<color=#5B6370>🚓 - 基金会势力</color> & <color=#0096FF>🚁 九尾狐</color>
+<color=#008F1C>🚙 - 混沌分裂者</color>
+<color=#FFFF7C>🔬 - 科学家</color>
+<color=#FF8E00>📋 - D级人员</color>
+死亡数
+无阵营

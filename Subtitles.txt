@@ -1,31 +1,32 @@
-<color=#70C3FF>MTF Unit Epsilon-11</color> | <color=#0049F1>[designation]</color> | 
-<color=#EC2222>[count] SCP subjects.</color>
-<color=#EC2222> 1 SCP subject.</color>
-<color=#F5650A>Substantial threat to safety remains</color> -- <color=#EC2222>exercise caution.</color>
-terminated. <color=#f5650A>Cause unspecified.</color>
-terminated by <color=#EC2222>SCP-[scp].</color>
-terminated by <color=#f5650A>Automatic Security System.</color>
-terminated by <color=#f5650A>Alpha Warhead.</color>
-contained | <color=#FFFF7C>Science Personnel.</color>
-contained | <color=#FF8E00>Class-D Personnel.</color>
-contained | <color=#008F1E>Chaos Insurgency.</color>
+<color=#70C3FF>机动特遣队Epsilon-11</color> | 代号<color=#0049F1>[designation]</color> | 
+<color=#EC2222>[count]个SCP项目</color>
+<color=#EC2222>1个SCP项目</color>
+<color=#F5650A>安全威胁依然存在</color>——<color=#EC2222>请保持警惕</color>
+已消灭。<color=#f5650A>原因不明</color>
+被<color=#EC2222>SCP-[scp]</color>消灭
+被<color=#f5650A>自动安保系统</color>消灭
+被<color=#f5650A>Alpha核弹头</color>消灭
+已收容 | <color=#FFFF7C>科研人员</color>
+已收容 | <color=#FF8E00>D级人员</color>
+已收容 | <color=#008F1E>混沌分裂者</color>
 <color=#EC2222>SCP-[scp]</color>
-contained | <color=#D2D4C1>Containment unit unknown.</color>
-contained | <color=#0049F1>Containment Unit [designation].</color>
-lost in Decontamination Sequence.
-<color=#F5650A>[current]</color>/<color=#F5650A>[max]</color> generators activated.
-<split>All generators have been successfully engaged.
-<color=#AD0606>Overcharge in 3... 2... 1...</color>
-Facility is back in operational mode.
-<color=#E8A925>Attention, </color>emergency procedure <color=#FFA4A4>P-B-3</color> will occur in <color=#F5650A>T-15 minutes.</color>
-<color=#E8A925>Danger</color>, <color=#FFA4A4>LCZ-ODP</color> in <color=#EC2222>T-[time] minutes.</color>
-<color=#F5650A>Danger</color>, <color=#FFA4A4>LCZ-ODP</color> in <color=#EC2222>T-1 minute.</color>
-<color=#AD0606>Danger</color>, <color=#FFA4A4>LCZ-ODP</color> in <color=#EC2222>T-30 seconds.</color><split><color=#F5650A>Please evacuate immediately.</color>
-<color=#FFA4A4>LCZ</color> is <color=#F5650A>Locked Down</color> and ready for decontamination.<split>The removal of organic substances has now begun.
-<color=#F5650A>EMERGENCY PROCEDURE P-B-4 <color=#EC2222>INITATED</color> | <color=#F5650A>SUBLEVEL DETONATION IN <color=#EC2222>T-[time] SECONDS.</color>
-<color=#F5650A>DETONATION CANCELLED. RESTARTING SYSTEMS...</color>
-<color=#F5650A>DETONATION RESUMED</color> | <color=#EC2222>T-[time] SECONDS</color>
-terminated by <color=#f5650A>Marshmallow Man.</color>
-<color=#70C3FF>NTF Backup Unit</color> | <color=#0049F1>[designation]</color> | 
-<color=#EC2222>Security alert</color> | <color=#008F1E>Chaos Insurgent</color> activity -- <color=#F5650A>proceed with standard protocols.</color>
-<color=#F5650A>Attention</color> | <color=#008F1E>Chaos Insurgency</color> | <color=#FFFF7C>Gate A.</color>
+已收容 | <color=#D2D4C1>收容单位未知</color>
+已收容 | <color=#0049F1>[designation]收容小队</color>
+在净化程序中清除
+<color=#F5650A>[current]</color>/<color=#F5650A>[max]</color>台发电机已激活
+<split>所有发电机已成功启动
+<color=#AD0606>过载倒计时3...2...1...</color>
+设施已恢复运作模式
+<color=#E8A925>注意，</color>紧急程序<color=#FFA4A4>P-B-3</color>将在<color=#F5650A>T-15分钟</color>后启动
+<color=#E8A925>警告，</color><color=#FFA4A4>轻收容区净化程序</color>将于<color=#EC2222>T-[time]分钟</color>后启动
+<color=#F5650A>警告，</color><color=#FFA4A4>轻收容区净化程序</color>将于<color=#EC2222>T-1分钟</color>后启动
+<color=#AD0606>警告，</color><color=#FFA4A4>轻收容区净化程序</color>将于<color=#EC2222>T-30秒</color>后启动<split><color=#F5650A>请立即撤离</color>
+<color=#FFA4A4>轻收容区</color>已<color=#F5650A>封锁</color>并准备净化<split>有机物质清除程序现已开始
+<color=#F5650A>紧急程序P-B-4<color=#EC2222>已启动</color> | <color=#F5650A>地下层引爆倒计时<color=#EC2222>T-[time]秒</color>
+<color=#F5650A>引爆已取消。系统重启中...</color>
+<color=#F5650A>引爆已恢复</color> | <color=#EC2222>T-[time]秒</color>
+被<color=#f5650A>棉花糖人</color>消灭
+<color=#70C3FF>九尾狐增援部队</color> | 代号<color=#0049F1>[designation]</color> | 
+<color=#EC2222>安全警报</color> | 侦测到<color=#008F1E>混沌分裂者</color>活动——<color=#F5650A>请执行标准协议</color>
+<color=#F5650A>注意</color> | <color=#008F1E>混沌分裂者</color> | <color=#FFFF7C>A号大门</color>
+收到O5指令：终焉协议已启动。

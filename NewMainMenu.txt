@@ -1,94 +1,101 @@
-News
-Servers
-Settings
-Quit
-Social Media
-Internet
-Favorites
-Official
-History
-Friends
-Search Servers
-Create Server
-Re-Join
-Direct Connect
-Refresh
-Hide Empty Games
-Hide Full Games
-No Whitelist
-<color=#f7430c>V</color><color=#f44111>i</color><color=#f13f15>d</color><color=#ee3d1a>e</color><color=#eb3b1e>o</color>
-<color=#e53827>A</color><color=#e2362c>u</color><color=#df3430>d</color><color=#db3235>i</color><color=#d83039>o</color> 
-<color=#d22c43>C</color><color=#cf2a47>o</color><color=#cc284c>n</color><color=#c92650>t</color><color=#c62455>r</color><color=#c32259>o</color><color=#c0215e>l</color><color=#bd1f62>s</color>
-<color=#b71b6b>G</color><color=#b41970>a</color><color=#b11774>m</color><color=#ae1579>e</color><color=#ab137e>p</color><color=#a81182>l</color><color=#a40f87>a</color><color=#a10d8b>y</color> 
-<color=#9b0a94>O</color><color=#980899>t</color><color=#95069d>h</color><color=#9204a2>e</color><color=#8f02a6>r</color><color=#8c00ab>s</color>
-Window Mode
-Exclusive Fullscreen
-Borderless Window
-Maximized Window
-Windowed
-V-Sync
-FPS Limit
-Off
-Texture Quality
-Decals
-Shadows
-Shadow Resolution
-Shadow Distance
-Motion Blur
-Color Correction
-Anti Aliasing
-Render Lights
-Master Volume
-Sound Effects
-Voice Chat
-Menu Music
-Interface Volume
-Menu Theme
-Fast Intro Fade
-Head Bob
-Toggle Sprint
-Display Exact HP Value
-Rich Presence
-Public Lobby
-Toggle Search
-SCP-079 - Toggle View Mode
-SCP-079 - Post-Processing
-Language
-Main Menu
-<color=#9204A2>C</color><color=#9204A3>o</color><color=#9204A4>n</color><color=#9204A5>n</color><color=#9204A6>e</color><color=#9204A7>c</color><color=#9204A8>t</color>
-Back
-This change will require a reload.\nReload the menu now?
-Yes
-No
-Are you sure you want to quit?
-Screen Resolution
-Hide IP
-Welcome back, {username}!
-Credits
-AUTHENTICATING
-Connecting to central servers...
-<color=green>Connection established</color>
-<color=red>Connection failure (Check console for details)</color>
-<color=red>Steam authentication failure (Check console for details)</color>
-<color=red>Discord authentication failure (Check console for details)</color>
-Disabled
-Seconds
-Ragdoll Cleanup Time
-Display Steam Profile
-Allows players to view your Steam profile by clicking an icon on the player list.
-Do Not Track (DNT)
-Forbids the server to use your data (IP address, user ID, etc.) in purposes not related to the server security.
-Graphics API
-Creating game servers directly from the game is no longer supported.\nThere are currently 3 ways of creating a SCP:SL server:\n- You can download SCP:SL dedicated server (Steam AppID: 996560) and run it on your computer\n- You can rent a VPS or a Dedicated Server from a hosting provider and run SCP:SL dedicated server there\n- You can rent a SCP:SL server from a game hosting provider that supports SCP:SL (eg. ZAP Hosting)\n\nClick the links below to get more info.\nYou can ask our tech support (link to our Discord server can be found in the main menu) for assistance.
-CREATE ANYWAY
-READ MORE
-RENT A SERVER
-CANCEL
-Second
-For playing our game!
-Flash Taskbar On Spawn
-Ambient Occlusion
-Volumetric Lights
+新闻
+服务器列表
+游戏设置
+退出
+社交媒体
+网络
+收藏
+官方
+历史
+好友
+搜索服务器
+创建本地服务器
+快速重进
+IP直连
+刷新
+隐藏无人服务器
+隐藏已满服务器
+无白名单服务器
+<color=#f7430c>视</color><color=#f44111>频</color>
+<color=#e53827>音</color><color=#e2362c>频</color> 
+<color=#d22c43>控</color><color=#cf2a47>制</color>
+<color=#b71b6b>游</color><color=#b41970>戏</color><color=#b11774>设</color><color=#ae1579>置</color> 
+<color=#9b0a94>其</color><color=#980899>他</color>
+窗口化模式
+全屏
+无边窗口化
+最大窗口化
+窗口化
+垂直同步
+FPS限制
+无限制
+图像质量
+贴花
+光影渲染
+阴影分辨率
+阴影距离
+动态模糊
+色彩校正
+抗锯齿
+光源渲染
+主音量
+音效
+语音聊天
+主菜单音乐
+界面音量
+主菜单主题
+加速介绍淡出速度
+视角摇晃
+切换奔跑模式
+显示精确血量
+状态展示
+公开战局
+切换拾取模式
+SCP-079 - 切换观察模式
+SCP-079 - 后处理
+语言
+主菜单样式
+<color=#9204A2>连</color><color=#9204A3>接</color>
+返回
+此更改需要重新加载。\n是否立即重新加载主菜单?
+好的
+取消
+您确定要退出吗?
+屏幕分辨率
+隐藏IP地址
+欢迎回来, {username}！
+演职员表
+身份验证中
+正在连接至中心服务器...
+<color=green>连接已建立</color>
+<color=red>连接失败\n<size=15>(请检查控制台查看具体原因\n大陆玩家请尝试使用网络代理、加速器等工具)</size></color>
+<color=red>Steam 验证失败(请检查控制台查看具体原因)</color>
+<color=red>Discord 验证失败(请检查控制台查看具体原因)</color>
+关闭
+秒
+清理布娃娃(尸体)时间
+显示Steam个人档案
+允许玩家通过点击玩家列表上的图标来查看你的Steam个人档案。
+禁止跟踪(DNT)
+阻止服务器读取您的数据（IP地址、用户ID等）用于与服务器安全无关的目的。
+图像处理(Graphics)API
+目前游戏已不再对直接从游戏内创建的服务器进行维护,\n【仍然创建可能会产生游戏内的异常问题】。\n目前有3种方法可以创建SCP:SL服务器:\n-1. 您可以直接在Steam库中下载SCP:SL专用服务器(Steam AppID:996560)后在您电脑上运行它。\n-2. 您可以自行租用一个VPS(虚拟专用服务器)或在服务器供应商方租用运行SCP:SL专用服务器。\n-3. 您可以从支持SCP:SL的游戏服务器的供应商中租用SCP:SL服务器(如Terabit)\n\n点击下方的链接获取详情信息。\n您可以向我们的技术支持寻求帮助(在主菜单可以找到我们的Discord链接)。
+无视风险仍然创建
+查阅详情
+租用服务器
+取消
+秒
+感谢您游玩我们的游戏！
+阵营刷新时系统任务栏闪烁
+环境光遮蔽
+体积光
 Bloom
-Toggle Subtitles
-Operational Guide
+开关字幕
+操作指南
+租用服务器
+<size=60><color="red>光敏性警告：游玩前必读！</color></size>\n<size=36>有极少数人群暴露在特定光影图案或闪光光亮下时会引发癫痫。在电脑屏幕上观看特定图案或背景，或者玩电子游戏时，可能会引发这些人的癫痫发作。甚至没有癫痫病史的人，也可能诱发先前未被察觉的癫痫症状。\n\n如果您或您的家人曾有过癫痫病史，请在进行游戏前先咨询医生。如果您在游玩电子游戏过程中出现任何以下症状，包括头晕、目眩、眼部或肌肉抽搐、失去意识、失去方向感、出现任何自己无法控制的动作或抽搐，请立即停止游戏，并在继续本游戏前咨询您的医生。</size>
+按下任意按键继续
+不再显示
+继续游戏
+服务器信息
+断开连接

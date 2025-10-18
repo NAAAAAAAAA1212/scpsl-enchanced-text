@@ -1,5 +1,5 @@
-Light Source
-Ammo Counter
-Flash Suppression
-Night Vision
-Buckshot
+光源照明
+弹量计数器
+枪口消焰
+夜视装置
+使用霰弹

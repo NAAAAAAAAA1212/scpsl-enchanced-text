@@ -1,19 +1,19 @@
-<b>The round has ended!</b>
-<color=#EC2222>「SCPS WIN」</color>
-<size=85%><color=#0096FF>「FOUNDATION WINS」</color></size>
-<size=85%><color=#008F1C>「INSURGENCY WINS」</color></size>
-「STALEMATE」
-<color=#EC2222>The escaped subjects have overrun the facility. Emergency response has been scrambled.</color>
-<color=#0096FF>All threats to safety have been neutralized. Site-02 is secure once again.</color>
-<color=#008F1C>Foundation presence has been exterminated. Operatives standing by for further orders.</color>
-Site-02 is under certain control, but not without cost. The victor is undetermined.
-<color=#FF8E00>🏃 [summary_d_escaped] Class-D(s) have survived</color>
-<color=#FFFF7C>👓 [summary_s_escaped] Scientist(s) have survived</color>
-<color=#EC2222>Alpha Warhead - DETONATED. Confirmed Terminations: [summary_warhead_kills].</color>
-<color=#EC2222>Alpha Warhead</color> - No detonation occured. Systems - Operational.
-The breach took [summary_round_minutes] minutes and [summary_round_seconds] seconds.
-<color=#EC2222>🌀 [summary_scp_terminated] recontained SCP Subjects</color>
-Next round in [summary_next_round_countdown] seconds.
-<color=#EC2222>The SCPs killed [summary_scpfrags] beings.</color>
-<size=85%><color=#FF59CA>「FLAMINGOS WIN」</color></size>
-<color=#FF59CA>All other teams have been exterminated. Total flamingo victory has been achieved</color>
+<b>本回合结束！</b>
+<color=#EC2222>SCP获胜</color>
+<size=85%><color=#0096FF>基金会获胜</color></size>
+<size=85%><color=#008F1C>分裂者获胜</color></size>
+陷入僵局
+<color=#EC2222>异常项目侵占了设施。应急响应方案已紧急启动。</color>
+<color=#0096FF>所有安全威胁都已被无效化，Site-02又恢复了安全。</color>
+<color=#008F1C>F基金会安保势力被彻底消灭。特工们随时待命准备出动。</color>
+Site-02基本得到控制，但也为此付出了一定代价。最终的赢家难下定论。
+<color=#FF8E00>🏃 [summary_d_escaped] 名D级人员逃离设施</color>
+<color=#FFFF7C>👓 [summary_s_escaped] 名科学家逃离设施</color>
+<color=#EC2222>Alpha核弹</color>共了结了 [summary_warhead_kills] 条人命。
+<color=#EC2222>Alpha核弹</color>并未在本回合中使用。
+此次行动共花费 [summary_round_minutes] 分 [summary_round_seconds] 秒。
+<color=#EC2222>🌀 共消灭了 [summary_scp_terminated] 个SCP/color>
+下回合游戏将在 [summary_next_round_countdown] 秒后开始。
+<color=#EC2222>SCP共计杀死了 [summary_scpfrags] 名人类。</color>
+<size=85%><color=#FF59CA>火烈鸟获胜</color></size>
+<color=#FF59CA>其它的阵营都全军覆没了。火烈鸟们取得了完全的胜利。</color>

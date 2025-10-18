@@ -1,5 +1,5 @@
-YOU DIED
-Press {KEYBINDING_INTERACTION} to place the <color=yellow>Weapon Manager Tablet</color>.
-Press {KEYBINDING_INTERACTION} to pick up the <color=yellow>Weapon Manager Tablet</color>.
-This <color=yellow>workstation</color> already has someone else's <color=yellow>Weapon Manager Tablet</color> connected.
-You need a <color=yellow>Weapon Manager Tablet</color> to use this <color=yellow>workstation</color>.
+你已死亡
+按 {KEYBINDING_INTERACTION} 放置<color=yellow>武器控制面板</color>。
+按 {KEYBINDING_INTERACTION} 拿起<color=yellow>武器控制面板</color>。
+这台<color=yellow>工作站</color>已经连接了其他人的<color=yellow>武器控制面板</color>。
+你需要用<color=yellow>武器控制面板</color>来激活这台<color=yellow>工作站</color>。

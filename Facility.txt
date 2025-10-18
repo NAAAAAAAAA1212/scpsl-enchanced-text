@@ -1,49 +1,49 @@
-VOICE VOLUME
-Yes
-FORCE START
-SCP-106 RE-CONTAINMENT\nPROCEDURE OVERRIDE
-Invert Y-axis
-SUMMARY
-Cancel
-I N V E N T O R Y
-BRIGHTNESS
-SETTINGS
-DISCONNECT
-ALPHA WARHEAD IS DISABLED
-ACCESS DENIED
-VOICE CHAT
-INVENTORY OVERLOAD
-MOUSE SENSITIVITY
-HACKING
-PICKING UP...
-Increasing brightness <b>significantly worsens the mood </b>of the game.\nTry to set this value to as low as you can.\n<b>The default value is recommended.</b>
-[1] OPEN/CLOSE DOOR\n[2] LOCK DOOR*\n\n*Locking the door uses special ability
-DOOR HAS BEEN LOCK-DOWN BY SCP-079
-Fullscreen mode
-Are you sure you want to leave the server?
-Basic options. Full list of settings in the menu.
-「<color=#F7D007>W</color><color=#F7C514>A</color><color=#F7BA21>I</color><color=#F7AF2E>T</color><color=#F7A43B>I</color><color=#F79948>N</color><color=#F78E55>G</color> <color=#F7786F>F</color><color=#F76D7C>O</color><color=#F76289>R</color> <color=#F74CA3>P</color><color=#F741B0>L</color><color=#F736BD>A</color><color=#F72BCA>Y</color><color=#F720D7>E</color><color=#F715E4>R</color><color=#F70AF1>S</color>」
-SUMMARY
-CONTINUE
-MAIN VOLUME
-\n<size=150%><color=#F70AF1>\uf0c0</color></size>\n<b>PLAYERS</b></color>
--
--
-YOU ARE
-Escape time: [escape_minutes]:[escape_seconds]
-Cooldown: [time]\n[item]
-Press <color=#ff80bc><b>F1</b></color> for more information.
-You have been cuffed.\n<size=40>Follow orders or ask teammates for help.</size>
--
--
-<size=110%><b>ROUND STARTS IN:</size> <size=180%><color=green>{0}</color></b></size>
-<size=110%><b>ROUND START:</b><color=#EC2222> \uf023 <b>LOCKED</b> \uf023</color></size>
-AIMING SENS. REDUCTION
-Press <b>[key]</b> to cancel the throw.
-ADS Toggle
-Mute Spectator Chat
-Enable Noise Reduction (recommended)
-Automatic (System Default)
-No Microphone Detected!
-INPUT DEVICE
-Press <b>[key]</b> to blow out the candles.
+语音音量
+是
+强制开始游戏
+SCP-106重新收容程序\n强制启动
+反转Y轴
+回合总结
+取消
+物 品 栏
+亮度
+设置
+断开连接
+阿尔法核弹头已禁用
+拒绝访问
+语音聊天
+物品栏已满
+鼠标灵敏度
+骇入中
+拾取中...
+<b>提高亮度会显著破坏游戏氛围</b>。\n请尽量调低此数值。\n<b>推荐使用默认值。</b>
+[1] 开门/关门\n[2] 锁门*\n\n*锁门需要消耗特殊能力
+此门已被SCP-079封锁
+全屏模式
+确定要离开服务器？
+基础选项。完整设置请至主菜单查看。
+「<color=#F7D007>等</color><color=#F7C514>待</color><color=#F7BA21>玩</color><color=#F7AF2E>家</color><color=#F7A43B>加</color><color=#F79948>入</color><color=#F78E55>中</color>」
+回合总结
+继续
+主音量
+\n<size=150%><color=#F70AF1>\uf0c0</color></size>\n<b>玩家数量</b></color>
+你作为科学家逃离了设施，并加入了MTF阵营。
+你作为D级人员逃离了设施，并加入了混沌分裂者阵营。
+你的身份
+逃脱用时：[escape_minutes]分[escape_seconds]秒
+冷却时间：[time]\n[item]
+按下 <color=#ff80bc><b>F1</b></color> 获取更多信息
+你已被戴上手铐\n<size=40>请服从指令或寻求队友帮助</size>
+你被九尾狐重新逮捕了，设施内少了一份威胁，同时他们得到了增援。
+你作为一名科学家被混沌分裂者俘虏了。他们能从你那里得到一些有利信息。
+<size=110%><b>回合将在</b></size> <size=180%><color=green>{0}</color></size> <size=110%><b>秒后开始</b></size>
+<size=110%><b>回合开始：</b><color=#EC2222> \uf023 <b>已锁定</b> \uf023</color></size>
+瞄准灵敏度降低
+按下 <b>[key]</b> 取消投掷
+开镜模式切换
+屏蔽观察者聊天
+启用降噪功能（推荐）
+自动（系统默认）
+未检测到麦克风！
+输入设备
+按下 <b>[key]</b> 吹灭蜡烛
