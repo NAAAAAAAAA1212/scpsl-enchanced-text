@@ -1,35 +1,35 @@
 这是 <color=#A93FEA><b>[user]</b></color> 的尸体 - 生前是 [class]！\n 观察结果: [cause]
-已被重新收容。
-<color=#F5650A>在Alpha核弹头的爆炸中蒸发。</color> \n 死因: <color=#F5650A>未能及时撤离。</color>
-<color=#F5650A>突发性死亡，无明显外伤。</color> \n 死因: <color=#EC2222>SCP-049</color>
-<color=#F5650A>死因不明。</color> \n 死因: <color=#F5650A>未知</color>
-<color=#F5650A>重度电击灼烧。</color> \n 可能原因: <color=#F5650A>Micro HID, 特斯拉电网。</color>
-<color=#F5650A>因缺氧而窒息致死。</color>
-<color=#F5650A>伤口过深导致失血过多。</color>
-<color=#F5650A>你失血过多死了。</color>
-<color=#F5650A>从高处摔落造成的腿骨粉碎性骨折。</color>
-<color=#F5650A>你摔死了。</color>
-<color=#F5650A>腐烂于口袋次元。</color> \n 死因: <color=#F5650A>在黑暗迷宫中停留过久。</color>
-<color=#F5650A>被强酸性气体腐蚀殆尽。</color> \n 死因: <color=#F5650A>未能及时逃离下层迷宫</color>
-<color=#F5650A>中毒身亡，尸体泛黄且散发恶臭。</color> \n 死因: <color=#F5650A>摄入毒物。</color>
-<color=#F5650A>你中毒致死了。</color> \n 死因: <color=#F5650A>混合</color> <color=#EC2222>SCP-207</color> <color=#F5650A>与</color> <color=#EC2222>SCP-1853</color>
-<color=#F5650A>摄入不明物质导致脏器大出血。</color> \n 死因: <color=#EC2222>SCP-207</color>
-<color=#EC2222>SCP-207</color> <color=#F5650A>了结了你。</color>
+已被重新收容
+<color=#F5650A>在Alpha核弹头的爆炸中蒸发</color> \n 死因: <color=#F5650A>未能及时撤离</color>
+<color=#F5650A>突发性死亡，无明显外伤</color> \n 死因: <color=#EC2222>SCP-049</color>
+<color=#F5650A>死因不明</color> \n 死因: <color=#F5650A>未知</color>
+<color=#F5650A>重度电击灼烧</color> \n 可能原因: <color=#F5650A>Micro HID, 特斯拉电网</color>
+<color=#F5650A>因缺氧而窒息致死</color>
+<color=#F5650A>伤口过深导致失血过多</color>
+<color=#F5650A>你失血过多死了</color>
+<color=#F5650A>从高处摔落造成的腿骨粉碎性骨折</color>
+<color=#F5650A>你摔死了</color>
+<color=#F5650A>腐烂于口袋次元</color> \n 死因: <color=#F5650A>在黑暗迷宫中停留过久</color>
+<color=#F5650A>被强酸性气体腐蚀殆尽</color> \n 死因: <color=#F5650A>未能及时逃离下层迷宫</color>
+<color=#F5650A>中毒身亡，尸体泛黄且散发恶臭</color> \n 死因: <color=#F5650A>摄入毒物</color>
+<color=#F5650A>你中毒致死了</color> \n 死因: <color=#F5650A>混合</color> <color=#EC2222>SCP-207</color> <color=#F5650A>与</color> <color=#EC2222>SCP-1853</color>
+<color=#F5650A>摄入不明物质导致脏器大出血</color> \n 死因: <color=#EC2222>SCP-207</color>
+<color=#EC2222>SCP-207</color> <color=#F5650A>了结了你</color>
 <color=#F5650A>你不该拿走超过两颗的！</color> \n 死因: <color=#EC2222>SCP-330</color>
-<color=#F5650A>你被特斯拉电网拦截消灭了。</color>
-<color=#F5650A>因爆炸受到破片伤害以及重度烧伤。</color> \n 可能原因: <color=#F5650A>高爆手雷, 3-X粒子干扰器, <color=#EC2222>SCP-018</color>
-<color=#F5650A>你被周围的爆炸波及炸死了。</color> \n 可能原因: <color=#F5650A>高爆手雷, 3-X粒子干扰器, <color=#EC2222>SCP-018</color>
-<color=#F5650A>大面积撕裂伤造成的失血过多。</color> \n 死因: <color=#EC2222>SCP-096</color>
-<color=#F5650A>颈椎根部粉碎性骨折。</color> \n 死因: <color=#EC2222>SCP-173</color>
-<color=#F5650A>颚骨附近有较大较深的咬痕。</color> \n 死因: <color=#EC2222>SCP-939</color>
-<color=#F5650A>尸体呈现多处挫伤与抓痕。</color> \n 可能原因: <color=#EC2222>SCP-049-2, SCP-3114, <color=#FF59CA>SCP-1507</color>
-被 [ammotype] 弹药射杀。</color>
-<color=#F5650A>钝器挫伤致死，尸体已不成人形。</color> \n 死因: <color=#EC2222>SCP-018</color>
-<color=#F5650A>股骨挫伤造成的循环休克致死。</color> \n 死因: <color=#F5650A>循环休克。</color>
-<color=#F5650A>为了重新收容</color> <color=#EC2222>SCP-106</color><color=#F5650A>，你被献祭了。</color>
-<color=#F5650A>因误伤友军被自动处死。</color>
-<color=#F5650A>冰冷的皮肤和冻伤的手指。</color> \n 死因: <color=#EC2222>SCP-244</color> <color=#F5650A>导致的体温过低。</color>
-<color=#F5650A>你被冰冻致死。</color> \n 死因: <color=#F5650A>在</color> <color=#EC2222>SCP-244</color> <color=#F5650A>的雾气中停留过久。</color>
-<color=#F5650A>尸体上存在深度划伤和抓痕。</color> \n 死因: <color=#EC2222>SCP-939</color>
+<color=#F5650A>你被特斯拉电网拦截消灭了</color>
+<color=#F5650A>因爆炸受到破片伤害以及重度烧伤</color> \n 可能原因: <color=#F5650A>高爆手雷, 3-X粒子干扰器, <color=#EC2222>SCP-018</color>
+<color=#F5650A>你被周围的爆炸波及炸死了</color> \n 可能原因: <color=#F5650A>高爆手雷, 3-X粒子干扰器, <color=#EC2222>SCP-018</color>
+<color=#F5650A>大面积撕裂伤造成的失血过多</color> \n 死因: <color=#EC2222>SCP-096</color>
+<color=#F5650A>颈椎根部粉碎性骨折</color> \n 死因: <color=#EC2222>SCP-173</color>
+<color=#F5650A>颚骨附近有较大较深的咬痕</color> \n 死因: <color=#EC2222>SCP-939</color>
+<color=#F5650A>尸体呈现多处挫伤与抓痕</color> \n 可能原因: <color=#EC2222>SCP-049-2, SCP-3114, <color=#FF59CA>SCP-1507</color>
+被 [ammotype] 弹药射杀</color>
+<color=#F5650A>钝器挫伤致死，尸体已不成人形</color> \n 死因: <color=#EC2222>SCP-018</color>
+<color=#F5650A>股骨挫伤造成的循环休克致死</color> \n 死因: <color=#F5650A>循环休克</color>
+<color=#F5650A>为了重新收容</color> <color=#EC2222>SCP-106</color><color=#F5650A>，你被献祭了</color>
+<color=#F5650A>因误伤友军被自动处死</color>
+<color=#F5650A>冰冷的皮肤和冻伤的手指</color> \n 死因: <color=#EC2222>SCP-244</color> <color=#F5650A>导致的体温过低</color>
+<color=#F5650A>你被冰冻致死</color> \n 死因: <color=#F5650A>在</color> <color=#EC2222>SCP-244</color> <color=#F5650A>的雾气中停留过久</color>
+<color=#F5650A>尸体上存在深度划伤和抓痕</color> \n 死因: <color=#EC2222>SCP-939</color>
 <color=#F5650A>棉花糖人锤烂了你！</color> \n 死因: <color=#70C3FF> 棉花糖人</color>
-<color=#F5650A>被有机残留物射杀。</color> \n 死因: <color=#EC2222>SCP-127</color>
+<color=#F5650A>被有机残留物射杀</color> \n 死因: <color=#EC2222>SCP-127</color>
