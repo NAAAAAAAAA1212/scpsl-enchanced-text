@@ -1,0 +1,9 @@
+<size=85%>\uf084</size> JUNIOR RESEARCHER
+<size=85%>\uf084</size> JANITOR
+<size=85%>\uf084</size> SENIOR RESEARCHER
+<size=85%>\uf084</size> CONT. SPECIALIST
+<size=85%>\uf084</size> SECURITY GUARD
+<size=85%>\uf084</size> ZONE SUPERVISOR
+<size=85%>\uf084</size> SITE DIRECTOR
+<color=green>REMAINING USES LEFT: 1</color>
+<color=red>PASS REVOKED</color>

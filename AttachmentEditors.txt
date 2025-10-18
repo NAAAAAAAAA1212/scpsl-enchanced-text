@@ -1,0 +1,18 @@
+Custom
+Preset #[index]
+SAVE
+CLEAR ATTACHMENTS
+Default
+PRESETS
+<size=275><color=#ff0000>🔒</color>
+<size=64><color=#ccc>SITE-02 FIREARM CUSTOMIZATION POINT</color>\n<size=34><color=#ccc>AUTHORIZED PERSONNEL ONLY.</color></size>
+<size=275><color=orange>🔒</color></size>
+WORKSTATION IS BOOTING UP
+<size=275><color=#0c0>🔓</color>
+<size=85><color=#ccc>SITE-02 FIREARM CUSTOMIZATION POINT</color></size>
+<size=275><color=orange>🔓</color>
+WORKSTATION IS SHUTTING DOWN
+SHOW SUMMARY
+CLOSE SUMMARY
+[Attachment] Customization
+Press [Key] to edit attachments.

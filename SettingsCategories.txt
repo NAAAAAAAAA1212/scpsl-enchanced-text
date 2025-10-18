@@ -1,0 +1,5 @@
+<color=#F7430C>V</color><color=#F44110>i</color><color=#F13F14>d</color><color=#EE3D18>e</color><color=#EB3B1C>o</color>
+<color=#E53724>A</color><color=#E23528>u</color><color=#DF332C>d</color><color=#DC3130>i</color><color=#D92F34>o</color>
+<color=#D32B3C>C</color><color=#D02940>o</color><color=#CD2744>n</color><color=#CD294A>t</color><color=#CA274F>r</color><color=#C72554>o</color><color=#C42359>l</color><color=#C1215E>s</color>
+<color=#BB1D68>I</color><color=#B81B6D>n</color><color=#B51972>t</color><color=#B21777>e</color><color=#AF157C>r</color><color=#AC1381>f</color><color=#A91186>a</color><color=#A60F8B>c</color><color=#A30D90>e</color>
+<color=#9D099A>O</color><color=#9A079F>t</color><color=#9705A4>h</color><color=#9403A9>e</color><color=#9101AE>r</color>

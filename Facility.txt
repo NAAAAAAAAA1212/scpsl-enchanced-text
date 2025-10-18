@@ -1,0 +1,49 @@
+VOICE VOLUME
+Yes
+FORCE START
+SCP-106 RE-CONTAINMENT\nPROCEDURE OVERRIDE
+Invert Y-axis
+SUMMARY
+Cancel
+I N V E N T O R Y
+BRIGHTNESS
+SETTINGS
+DISCONNECT
+ALPHA WARHEAD IS DISABLED
+ACCESS DENIED
+VOICE CHAT
+INVENTORY OVERLOAD
+MOUSE SENSITIVITY
+HACKING
+PICKING UP...
+Increasing brightness <b>significantly worsens the mood </b>of the game.\nTry to set this value to as low as you can.\n<b>The default value is recommended.</b>
+[1] OPEN/CLOSE DOOR\n[2] LOCK DOOR*\n\n*Locking the door uses special ability
+DOOR HAS BEEN LOCK-DOWN BY SCP-079
+Fullscreen mode
+Are you sure you want to leave the server?
+Basic options. Full list of settings in the menu.
+「<color=#F7D007>W</color><color=#F7C514>A</color><color=#F7BA21>I</color><color=#F7AF2E>T</color><color=#F7A43B>I</color><color=#F79948>N</color><color=#F78E55>G</color> <color=#F7786F>F</color><color=#F76D7C>O</color><color=#F76289>R</color> <color=#F74CA3>P</color><color=#F741B0>L</color><color=#F736BD>A</color><color=#F72BCA>Y</color><color=#F720D7>E</color><color=#F715E4>R</color><color=#F70AF1>S</color>」
+SUMMARY
+CONTINUE
+MAIN VOLUME
+\n<size=150%><color=#F70AF1>\uf0c0</color></size>\n<b>PLAYERS</b></color>
+-
+-
+YOU ARE
+Escape time: [escape_minutes]:[escape_seconds]
+Cooldown: [time]\n[item]
+Press <color=#ff80bc><b>F1</b></color> for more information.
+You have been cuffed.\n<size=40>Follow orders or ask teammates for help.</size>
+-
+-
+<size=110%><b>ROUND STARTS IN:</size> <size=180%><color=green>{0}</color></b></size>
+<size=110%><b>ROUND START:</b><color=#EC2222> \uf023 <b>LOCKED</b> \uf023</color></size>
+AIMING SENS. REDUCTION
+Press <b>[key]</b> to cancel the throw.
+ADS Toggle
+Mute Spectator Chat
+Enable Noise Reduction (recommended)
+Automatic (System Default)
+No Microphone Detected!
+INPUT DEVICE
+Press <b>[key]</b> to blow out the candles.

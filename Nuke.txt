@@ -1,0 +1,4 @@
+<size=2000>STATUS: <color=#FF0000>DISABLED</color></size>
+<size=2000>STATUS: <color=#FFFF00>RESTARTING</color></size>
+<size=2000>STATUS: <color=#00FF00>ENABLED</color></size>
+DETONATION INEVITABLE

@@ -1,0 +1,10 @@
+<color=green><size=75>◯</size></color>
+<color=#07A2FF><size=75>●</size></color>
+<color=orange><size=75>◐</size></color>
+<color=red>LOCKDOWN</color>
+<color=red>ERROR</color>
+<color=red>ACCESS DENIED</color>
+<color=green>ACCESS GRANTED</color>
+<color=#07A2FF>KEYCARD REQUIRED</color>
+<color=orange>PLEASE PASS</color>
+<color=orange>CLOSING</color>

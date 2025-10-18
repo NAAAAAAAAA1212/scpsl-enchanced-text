@@ -1,0 +1,31 @@
+<color=#70C3FF>MTF Unit Epsilon-11</color> | <color=#0049F1>[designation]</color> | 
+<color=#EC2222>[count] SCP subjects.</color>
+<color=#EC2222> 1 SCP subject.</color>
+<color=#F5650A>Substantial threat to safety remains</color> -- <color=#EC2222>exercise caution.</color>
+terminated. <color=#f5650A>Cause unspecified.</color>
+terminated by <color=#EC2222>SCP-[scp].</color>
+terminated by <color=#f5650A>Automatic Security System.</color>
+terminated by <color=#f5650A>Alpha Warhead.</color>
+contained | <color=#FFFF7C>Science Personnel.</color>
+contained | <color=#FF8E00>Class-D Personnel.</color>
+contained | <color=#008F1E>Chaos Insurgency.</color>
+<color=#EC2222>SCP-[scp]</color>
+contained | <color=#D2D4C1>Containment unit unknown.</color>
+contained | <color=#0049F1>Containment Unit [designation].</color>
+lost in Decontamination Sequence.
+<color=#F5650A>[current]</color>/<color=#F5650A>[max]</color> generators activated.
+<split>All generators have been successfully engaged.
+<color=#AD0606>Overcharge in 3... 2... 1...</color>
+Facility is back in operational mode.
+<color=#E8A925>Attention, </color>emergency procedure <color=#FFA4A4>P-B-3</color> will occur in <color=#F5650A>T-15 minutes.</color>
+<color=#E8A925>Danger</color>, <color=#FFA4A4>LCZ-ODP</color> in <color=#EC2222>T-[time] minutes.</color>
+<color=#F5650A>Danger</color>, <color=#FFA4A4>LCZ-ODP</color> in <color=#EC2222>T-1 minute.</color>
+<color=#AD0606>Danger</color>, <color=#FFA4A4>LCZ-ODP</color> in <color=#EC2222>T-30 seconds.</color><split><color=#F5650A>Please evacuate immediately.</color>
+<color=#FFA4A4>LCZ</color> is <color=#F5650A>Locked Down</color> and ready for decontamination.<split>The removal of organic substances has now begun.
+<color=#F5650A>EMERGENCY PROCEDURE P-B-4 <color=#EC2222>INITATED</color> | <color=#F5650A>SUBLEVEL DETONATION IN <color=#EC2222>T-[time] SECONDS.</color>
+<color=#F5650A>DETONATION CANCELLED. RESTARTING SYSTEMS...</color>
+<color=#F5650A>DETONATION RESUMED</color> | <color=#EC2222>T-[time] SECONDS</color>
+terminated by <color=#f5650A>Marshmallow Man.</color>
+<color=#70C3FF>NTF Backup Unit</color> | <color=#0049F1>[designation]</color> | 
+<color=#EC2222>Security alert</color> | <color=#008F1E>Chaos Insurgent</color> activity -- <color=#F5650A>proceed with standard protocols.</color>
+<color=#F5650A>Attention</color> | <color=#008F1E>Chaos Insurgency</color> | <color=#FFFF7C>Gate A.</color>

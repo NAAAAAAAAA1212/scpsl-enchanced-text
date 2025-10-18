@@ -1,0 +1,7 @@
+<color=#EC2222>➰ - SCP SUBJECTS</color>
+<color=#5B6370>🚓 - FACILITY PROTECTION</color> & <color=#0096FF>🚁 MOBILE TASK FORCE</color>
+<color=#008F1C>🚙 - UNKNOWN</color>
+<color=#FFFF7C>🔬 - RESEARCHER(S)</color>
+<color=#FF8E00>📋 - CLASS-D PERSONNEL</color>
+Dead
+Unclassified

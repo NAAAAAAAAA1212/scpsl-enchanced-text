@@ -1,0 +1,35 @@
+It's <color=#A93FEA><b>[user]</b>'s</color> body - they were [class]!\n Observation: [cause]
+Recontained.
+<color=#F5650A>Vaporized by the Alpha Warhead.</color> \n Caused By: <color=#F5650A>Failing to evacute in time.</color>
+<color=#F5650A>Sudden cessation of life signs. No clear trauma.</color> \n Caused by: <color=#EC2222>SCP-049</color>
+<color=#F5650A>Unknown cause of death.</color> \n Caused By: <color=#F5650A>Unknown</color>
+<color=#F5650A>Severe electrical burns.</color> \n Possible Causes: <color=#F5650A>Micro HID, Tesla Gate.</color>
+<color=#F5650A>Oxygen deprivation resulted in a death of asphyxia.</color>
+<color=#F5650A>Severe blood loss caused by deep wounds.</color>
+<color=#F5650A>You have bled out.</color>
+<color=#F5650A>Shattered legs and feet suggest fatal trauma caused by a fall.</color>
+<color=#F5650A>You have fallen down.</color>
+<color=#F5650A>Decayed in the Pocket Dimension.</color> \n Caused By: <color=#F5650A>Spending too much time within the dark maze.</color>
+<color=#F5650A>Melted by a highly corrosive substance.</color> \n Caused By: <color=#F5650A>Failing to evacute the lower labyrinth</color>
+<color=#F5650A>Sickly yellow skin and a rancid smell.</color> \n Caused By: <color=#F5650A>Poison Ingestion.</color>
+<color=#F5650A>The poison has finished you.</color> \n Caused by: <color=#F5650A>mixing</color> <color=#EC2222>SCP-207</color> <color=#F5650A>with</color> <color=#EC2222>SCP-1853</color>
+<color=#F5650A>Pale skin and blood leaking from the mouth suggest internal bleeding caused by substance ingestion.</color> \n Caused By: <color=#EC2222>SCP-207</color>
+<color=#EC2222>SCP-207</color> <color=#F5650A>has finished you.</color>
+<color=#F5650A>You shouldn't have taken more than two!</color> \n Caused By: <color=#EC2222>SCP-330</color>
+<color=#F5650A>You've been caught by a Tesla Gate.</color>
+<color=#F5650A>Shrapnel and severe burns present.</color> \n Possible Causes: <color=#F5650A>High Explosive Grenade, 3-X Particle Disruptor, <color=#EC2222>SCP-018</color>
+<color=#F5650A>You've been killed by a nearby explosion.</color> \n Possible Causes: <color=#F5650A>High Explosive Grenade, 3-X Particle Disruptor, <color=#EC2222>SCP-018</color>
+<color=#F5650A>Massive lacerations and excessive blood loss.</color> \n Caused By: <color=#EC2222>SCP-096</color>
+<color=#F5650A>Cervical fracture at the base of the skull.</color> \n Caused By: <color=#EC2222>SCP-173</color>
+<color=#F5650A>Large, deep bite marks on the body can be observed.</color> \n Caused By: <color=#EC2222>SCP-939</color>
+<color=#F5650A>Blunt trauma and minor scratches present.</color> \n Possible Causes: <color=#EC2222>SCP-049-2, SCP-3114, <color=#FF59CA>SCP-1507</color>
+[ammotype] bullet wounds.</color>
+<color=#F5650A>Fatal blunt trauma; the body is badly mutilated and pulped.</color> \n Caused By: <color=#EC2222>SCP-018</color>
+<color=#F5650A>Signs of severe trauma to both femur bones.<color> \n Caused By: <color=#F5650A>Circulatory shock.</color>
+<color=#F5650A>You've been sacrificed to recontain</color> <color=#EC2222>SCP-106.</color>
+<color=#F5650A>Automatically killed for friendly fire.</color>
+<color=#F5650A>Cold skin and frostbitten fingers.</color> \n Caused By: <color=#EC2222>SCP-244</color> <color=#F5650A>induced hypothermia.</color>
+<color=#F5650A>You have frozen to death.</color> \n Caused By: <color=#F5650A>Spending too much time within</color> <color=#EC2222>SCP-244's</color> <color=#F5650A>mist.</color>
+<color=#F5650A>Deep lacerations and scratches are present on the body.</color> \n Caused By: <color=#EC2222>SCP-939</color>
+<color=#F5650A>The Marshmallow Man has killed you!</color> \n Caused By: <color=#70C3FF> Marshmallow Man</color>
+<color=#F5650A>Bullet wounds with organic residue.</color> \n Caused By: <color=#EC2222>SCP-127</color>
