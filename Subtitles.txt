@@ -2,7 +2,7 @@
 <color=#EC2222>[count]个SCP项目</color>
 <color=#EC2222>1个SCP项目</color>
 <color=#F5650A>安全威胁依然存在</color>——<color=#EC2222>请保持警惕</color>
-已消灭。<color=#f5650A>原因不明</color>
+已消灭<color=#f5650A>原因不明</color>
 被<color=#EC2222>SCP-[scp]</color>消灭
 被<color=#f5650A>自动安保系统</color>消灭
 被<color=#f5650A>Alpha核弹头</color>消灭
@@ -23,10 +23,10 @@
 <color=#AD0606>警告，</color><color=#FFA4A4>轻收容区净化程序</color>将于<color=#EC2222>T-30秒</color>后启动<split><color=#F5650A>请立即撤离</color>
 <color=#FFA4A4>轻收容区</color>已<color=#F5650A>封锁</color>并准备净化<split>有机物质清除程序现已开始
 <color=#F5650A>紧急程序P-B-4<color=#EC2222>已启动</color> | <color=#F5650A>地下层引爆倒计时<color=#EC2222>T-[time]秒</color>
-<color=#F5650A>引爆已取消。系统重启中...</color>
+<color=#F5650A>引爆已取消系统重启中...</color>
 <color=#F5650A>引爆已恢复</color> | <color=#EC2222>T-[time]秒</color>
 被<color=#f5650A>棉花糖人</color>消灭
 <color=#70C3FF>九尾狐增援部队</color> | 代号<color=#0049F1>[designation]</color> | 
 <color=#EC2222>安全警报</color> | 侦测到<color=#008F1E>混沌分裂者</color>活动——<color=#F5650A>请执行标准协议</color>
 <color=#F5650A>注意</color> | <color=#008F1E>混沌分裂者</color> | <color=#FFFF7C>A号大门</color>
-收到O5指令：终焉协议已启动。
+收到O5指令：终焉协议已启动

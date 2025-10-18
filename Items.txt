@@ -10,7 +10,7 @@
 9~<color=#27E1D4>设施总监钥匙卡</color>
 10~<color=#27E1D4>混沌分裂者破解装置</color>
 11~<color=#27E1D4>O5级别钥匙卡</color>
-12~<color=#DFCA09>对讲机</color>~用于与友方通信\n通信范围越远，可听距离越远，但耗电更快。
+12~<color=#DFCA09>对讲机</color>~用于与友方通信\n通信范围越远，可听距离越远，但耗电更快
 13~<color=#6914b7>COM-15手枪</color>
 14~<color=#498944>急救包</color>~治疗伤势\n<color=#00FF00>5秒后恢复65点生命值</color>
 15~<color=#DFCA09>手电筒</color>~需要时可提供应急照明
@@ -52,6 +52,6 @@
 56~雪球~<color=#00FF00>15/30点伤害\n2倍爆头伤害\n无视休谟护盾</color>
 57~煤块~你在淘气名单上！
 58~煤块？~将命中目标传送至<color=red>SCP</color>附近
-59~<color=#27E1D4>磁带播放器？</color>~内含未标记磁带。请不要播放。拜托了。
+59~<color=#27E1D4>磁带播放器？</color>~内含未标记磁带请不要播放拜托了
 61~<color=#27E1D4>地表通行证</color>~一次性通行凭证，用于开启出口闸门
 62~<color=#8C0C0C>S<color=#9e0e0e>C<color=#B00F0F>P<color=#C21111>-<color=#D51212>1<color=#E71414>2<color=#EC2222>7</color>

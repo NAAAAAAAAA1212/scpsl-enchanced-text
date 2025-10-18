@@ -39,10 +39,10 @@
 <color=yellow>⚡</color> 激活特斯拉电网 (<color=#8080FF>[cost]</color>)
 <color=yellow>⚠</color> 特斯拉电网激活处于冷却中 <color=yellow>⚠</color>
 $<color=#8080FF>💳 访问等级 [tier]</color>$ - 已解锁
-$<color=#8080FF>⚡ 备用电力</color>$ 上限提高到 $<color=#8080FF>[limit]</color>$。
-$<color=#FFD700>💡</color> <color=#8080FF>断电</color>$ 现在可用 - 按下 $<color=#8080FF>[key]</color>$ 关闭房间内的灯光 <color=#8080FF>15秒</color>。
-$<color=#FFD700>💡</color> <color=#8080FF>断电</color>$ 使用上限增加到 $<color=#8080FF>[number]</color>$ 个房间。
-$<color=red>\uf023</color> <color=#8080FF>封锁</color>$ 现在可用 - 按下 $<color=#8080FF>[key]</color>$ 可暂时锁定一个房间内的所有门 <color=#8080FF>10秒</color>。
+$<color=#8080FF>⚡ 备用电力</color>$ 上限提高到 $<color=#8080FF>[limit]</color>$
+$<color=#FFD700>💡</color> <color=#8080FF>断电</color>$ 现在可用 - 按下 $<color=#8080FF>[key]</color>$ 关闭房间内的灯光 <color=#8080FF>15秒</color>
+$<color=#FFD700>💡</color> <color=#8080FF>断电</color>$ 使用上限增加到 $<color=#8080FF>[number]</color>$ 个房间
+$<color=red>\uf023</color> <color=#8080FF>封锁</color>$ 现在可用 - 按下 $<color=#8080FF>[key]</color>$ 可暂时锁定一个房间内的所有门 <color=#8080FF>10秒</color>
 <color=#8080FF>+[amount]</color> - <color=#ff00b0>管理员指令</color>
 <color=#8080FF>+[amount]</color> - [role] - 协助击杀 - \uf54c
 <color=#8080FF>+[amount]</color> - [role] <color=red>- 直接击杀 - \uf714</color>
@@ -52,7 +52,7 @@ $<color=red>\uf023</color> <color=#8080FF>封锁</color>$ 现在可用 - 按下 
 <color=#8080FF>+[amount]</color> - 阻碍使用 - <color=#003DCA>Micro H.I.D.</color> - <color=#003DCA>⚡</color>
 <color=red>\uf023 已经激活了锁门能力 \uf023</color>
 <color=#ff9e00>☀ 整个区域范围断电</color> - 关闭区域灯光60秒 - ([cost])
-$<color=#ff9e00>☀</color> <color=#8080FF>整个区域范围断电</color>$ 现在可用 - 使用图标显示在$设施地图$内的区域名旁边。
+$<color=#ff9e00>☀</color> <color=#8080FF>整个区域范围断电</color>$ 现在可用 - 使用图标显示在$设施地图$内的区域名旁边
 <color=yellow>⚠</color> 整个区域范围断电处于冷却中 <color=yellow>⚠</color>
 <size=150%>🚨 已在此处激活断电 🚨</size>\n断电
 <size=150%>❌ 错误 ❌</size>\n此区域无法使用断电
@@ -63,12 +63,12 @@ $<color=#ff9e00>☀</color> <color=#8080FF>整个区域范围断电</color>$ 现
 <color=#9cc7f5>\uf505 - 武装单位数</color>
 <color=#8080FF>🔊</color> 使用扬声器
 <size=150%>⛔ 错误 ⛔</size>\n电梯拒绝访问
-SCP-079并没有直接攻击或是移动的能力。相对的，你可以靠每个房间里的摄像头巡视设施内的每一处并与之互动。所有可用的能力都列在你屏幕的右上角。
-<b>\uf6ff - 近乎无敌</b>:重收容区会随机出现三台发电机。一旦三台发电机全部充能完毕，他们就能到达你的收容室里将你重新收容。除你之外的任何人都可以通过按下发电机上的"取消"按钮来中断充能倒计时。
-<b>\uf1eb - 无限制访问</b>:你可以操纵设施内的各种系统来协助其它SCP。你的屏幕右上方会显示有哪些能力可以使用。使用这些能力都需要消耗备用电力(AP)，备用电力会随时间恢复。
-<b>\uf538 - 深度学习</b>:协助消灭，或者为其它SCP提供有利帮助时，你都将获得用于取得更高访问级别的经验。每个更高等级的访问级别都会提供更多的备用电力值，并给予你新的能力。
-<b>\uf06e - 监视者</b>:你独特的视角赋予了你无处不在的能力。你可以标记指定位置，人类，和让你感兴趣的对象，使其帮助你协助杀戮。
-$<color=#ffa500>\uf06e </color><color=#8080FF>入侵扫描器</color>$ 现在可用 — 在$设施地图$中选定阵营/区域后将定期扫描剩余的幸存者。
+SCP-079并没有直接攻击或是移动的能力相对的，你可以靠每个房间里的摄像头巡视设施内的每一处并与之互动所有可用的能力都列在你屏幕的右上角
+<b>\uf6ff - 近乎无敌</b>:重收容区会随机出现三台发电机一旦三台发电机全部充能完毕，他们就能到达你的收容室里将你重新收容除你之外的任何人都可以通过按下发电机上的"取消"按钮来中断充能倒计时
+<b>\uf1eb - 无限制访问</b>:你可以操纵设施内的各种系统来协助其它SCP你的屏幕右上方会显示有哪些能力可以使用使用这些能力都需要消耗备用电力(AP)，备用电力会随时间恢复
+<b>\uf538 - 深度学习</b>:协助消灭，或者为其它SCP提供有利帮助时，你都将获得用于取得更高访问级别的经验每个更高等级的访问级别都会提供更多的备用电力值，并给予你新的能力
+<b>\uf06e - 监视者</b>:你独特的视角赋予了你无处不在的能力你可以标记指定位置，人类，和让你感兴趣的对象，使其帮助你协助杀戮
+$<color=#ffa500>\uf06e </color><color=#8080FF>入侵扫描器</color>$ 现在可用 — 在$设施地图$中选定阵营/区域后将定期扫描剩余的幸存者
 <size=150%><color=red>已暂停备用电力恢复 ⚠</color></size>
 <size=150%><color=red>备用电力恢复已减少([precentage]) ⚠</color></size>
 <size=125%>锁定门已激活 \uf023</size>
@@ -86,6 +86,6 @@ $<color=#ffa500>\uf06e </color><color=#8080FF>入侵扫描器</color>$ 现在可
 <color=#8080FF>扫描中...</color>
 <size=130%><color=red><b>系统: 离线</b></color></size>
 <color=#8080FF>选择要扫描的阵营</color>
-<b>老大哥在看着你</b>\n\n入侵扫描器能检测在同一区域内停留了一段时间的幸存者。
+<b>老大哥在看着你</b>\n\n入侵扫描器能检测在同一区域内停留了一段时间的幸存者
 <color=yellow>⚠</color><color=red>至少得筛选一个区域才能继续运行！</color><color=yellow>⚠</color>
-$<color=red>\uf023</color> <color=#8080FF>锁定门</color>$ 现在可用 - 在指定的门上按下 $<color=#8080FF>鼠标右键</color>$ 可暂时锁定该门。
+$<color=red>\uf023</color> <color=#8080FF>锁定门</color>$ 现在可用 - 在指定的门上按下 $<color=#8080FF>鼠标右键</color>$ 可暂时锁定该门
