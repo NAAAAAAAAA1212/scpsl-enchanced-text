@@ -12,7 +12,7 @@ Site-02基本得到控制，但也为此付出了一定代价。最终的赢家�
 <color=#EC2222>Alpha核弹</color>共了结了 [summary_warhead_kills] 条人命。
 <color=#EC2222>Alpha核弹</color>并未在本回合中使用。
 此次行动共花费 [summary_round_minutes] 分 [summary_round_seconds] 秒。
-<color=#EC2222>🌀 共消灭了 [summary_scp_terminated] 个SCP/color>
+<color=#EC2222>🌀 共消灭了 [summary_scp_terminated] 个SCP</color>
 下回合游戏将在 [summary_next_round_countdown] 秒后开始。
 <color=#EC2222>SCP共计杀死了 [summary_scpfrags] 名人类。</color>
 <size=85%><color=#FF59CA>火烈鸟获胜</color></size>
