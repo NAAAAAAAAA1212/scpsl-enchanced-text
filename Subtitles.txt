@@ -1,7 +1,7 @@
 <color=#70C3FF>机动特遣队Epsilon-11</color> | 代号<color=#0049F1>[designation]</color> | 
 <color=#EC2222>[count]个SCP项目</color>
 <color=#EC2222>1个SCP项目</color>
-<color=#F5650A>安全威胁依然存在</color>——<color=#EC2222>请保持警惕</color>
+<color=#F5650A>安全威胁依然存在</color> —— <color=#EC2222>请保持警惕</color>
 已消灭<color=#f5650A>原因不明</color>
 被<color=#EC2222>SCP-[scp]</color>消灭
 被<color=#f5650A>自动安保系统</color>消灭
