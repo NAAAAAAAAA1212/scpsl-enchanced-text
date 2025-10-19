@@ -6,7 +6,7 @@
 <color=#ff0000>S</color><color=#fd0404>C</color><color=#fc0909>P</color><color=#fa0d0d>-</color><color=#f81212>0</color><color=#f61515>4</color><color=#f51717>9</color><color=#f31919></color>
 <color=#ffffae>科</color><color=#ffffa8>学</color><color=#ffffa2>家</color>
 <color=#a3a3ff>S</color><color=#9a9aff>C</color><color=#9292ff>P</color><color=#8989ff>-</color><color=#8080ff>0</color><color=#8080ff>7</color><color=#8080ff>9</color><color=#8080ff></color>
-<color=#86E401>混</color><color=#83DE01>沌</color> <color=#80D801>征</color><color=#7DD201>召</color><color=#77C601>兵</color>
+<color=#86E401>混</color><color=#83DE01>沌</color><color=#80D801>分</color><color=#7DD201>裂</color><color=#77C601>者</color> <color=#80D801>征</color><color=#7DD201>召</color><color=#77C601>兵</color>
 <color=#ff0000>S</color><color=#fd0505>C</color><color=#fb0a0a>P</color><color=#fa0e0e>-</color><color=#f81212>0</color><color=#f61515>9</color><color=#f41818>6</color><color=#f21b1b></color>
 <color=#ff0000>S</color><color=#fc0707>C</color><color=#fa0e0e>P</color><color=#f71313>-</color><color=#f41817>0</color><color=#f21b1b>4</color><color=#ef1f1f>9</color><color=#ec2222>-</color><color=#ec2222>2</color><color=#ec2222></color>
 <color=#70c3ff>九</color><color=#67bfff>尾</color><color=#5ebaff>狐</color> <color=#56b6ff>中</color><color=#4cb2ff>士</color>
@@ -16,9 +16,9 @@
 <color=#8097bb>设</color><color=#7d93b5>施</color><color=#7a8eae>警</color><color=#778aa8>卫</color>
 <color=#ff0000>S</color><color=#fe0404>C</color><color=#fc0807>P</color><color=#fb0b0b>-</color><color=#f90f0e>9</color><color=#f81211>3</color><color=#f61414>9</color><color=#f51716></color>
 自定义角色
-<color=#559101>混</color><color=#4E9103>沌</color> <color=#479105>步</color><color=#409107>枪</color><color=#32910B>手</color>
-<color=#15853D>混</color><color=#14833C>沌</color> <color=#13813B>掠</color><color=#127F3A>夺</color><color=#107B38>者</color>
-<color=#008F1C>混</color><color=#018F1E>沌</color> <color=#028F20>压</color><color=#038F22>制</color><color=#058F26>者</color>
+<color=#559101>混</color><color=#4E9103>沌</color><color=#479105>分</color><color=#409107>裂</color><color=#32910B>者</color> <color=#479105>步</color><color=#409107>枪</color><color=#32910B>手</color>
+<color=#15853D>混</color><color=#14833C>沌</color><color=#13813B>分</color><color=#127F3A>裂</color><color=#107B38>者</color> <color=#13813B>掠</color><color=#127F3A>夺</color><color=#107B38>者</color>
+<color=#008F1C>混</color><color=#018F1E>沌</color><color=#028F20>分</color><color=#038F22>裂</color><color=#058F26>者</color> <color=#028F20>压</color><color=#038F22>制</color><color=#058F26>者</color>
 <color=#69ffff>监</color><color=#62ffff>管</color><color=#5bffff>模</color><color=#53ffff>式</color>
 <color=#7a7a7a>导</color><color=#727272>演</color><color=#6a6a6a>模</color><color=#626262>式</color>
 <color=#ff0000>S</color><color=#fe0303>C</color><color=#fd0505>P</color><color=#fc0808>-</color><color=#fb0b0b>3</color><color=#fa0d0d>1</color><color=#f9100f>1</color><color=#f81212>4</color><color=#f71413></color>

@@ -29,4 +29,4 @@
 <color=#70C3FF>九尾狐增援部队</color> | 代号<color=#0049F1>[designation]</color> | 
 <color=#EC2222>安全警报</color> | 侦测到<color=#008F1E>混沌分裂者</color>活动——<color=#F5650A>请执行标准协议</color>
 <color=#F5650A>注意</color> | <color=#008F1E>混沌分裂者</color> | <color=#FFFF7C>A号大门</color>
-收到O5指令：终焉协议已启动
+收到<color=#000000>O5</color>指令：系统核<color=#DC143C>已启动</color>
