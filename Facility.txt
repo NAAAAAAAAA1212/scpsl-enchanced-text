@@ -27,15 +27,15 @@ SCP-106重新收容程序\n强制启动
 继续
 主音量
 \n<size=150%><color=#F70AF1>\uf0c0</color></size>\n<b>玩家数量</b></color>
-你作为<color=#ffffae>科</color><color=#ffffa8>学</color><color=#ffffa2>家</color>逃离了设施，并加入了<color=#A4F0FD>九</color><color=#98EFFD>尾</color><color=#8CEEFD>狐</color>
-你作为<color=#ffb456>D</color><color=#ffb252>级</color><color=#ffaf4d>人</color><color=#ffad49>员</color>逃离了设施，并加入了<color=#86E401>混</color><color=#83DE01>沌</color><color=#80D801>分</color><color=#7DD201>裂</color><color=#77C601>者</color>
-你是
+你作为科学家逃离了设施，并加入了MTF阵营
+你作为D级人员逃离了设施，并加入了混沌分裂者阵营
+你的身份
 逃脱用时：[escape_minutes]分[escape_seconds]秒
 冷却时间：[time]\n[item]
 按下 <color=#ff80bc><b>F1</b></color> 获取更多信息
 你已被戴上手铐\n<size=40>请服从指令或寻求队友帮助</size>
-你被<color=#A4F0FD>九</color><color=#98EFFD>尾</color><color=#8CEEFD>狐</color>重新逮捕了，设施内少了一份威胁，同时他们得到了增援
-你作为一名<color=#ffffae>科</color><color=#ffffa8>学</color><color=#ffffa2>家</color>被<color=#86E401>混</color><color=#83DE01>沌</color><color=#80D801>分</color><color=#7DD201>裂</color><color=#77C601>者</color>俘虏了，他们能从你那里得到一些有利信息
+你被九尾狐重新逮捕了，设施内少了一份威胁，同时他们得到了增援
+你作为一名科学家被混沌分裂者俘虏了，他们能从你那里得到一些有利信息
 <size=110%><b>回合将在</b></size> <size=180%><color=green>{0}</color></size> <size=110%><b>秒后开始</b></size>
 <size=110%><b>回合开始：</b><color=#EC2222> \uf023 <b>已锁定</b> \uf023</color></size>
 瞄准灵敏度降低
