@@ -10,48 +10,49 @@
 9~<color=#27E1D4>设施总监钥匙卡</color>
 10~<color=#27E1D4>混沌分裂者破解装置</color>
 11~<color=#27E1D4>O5级别钥匙卡</color>
-12~<color=#DFCA09>对讲机</color>~用于与友方通信\n通信范围越远，可听距离越远，但耗电更快
-13~<color=#6914b7>COM-15手枪</color>
-14~<color=#498944>急救包</color>~治疗伤势\n<color=#00FF00>5秒后恢复65点生命值</color>
-15~<color=#DFCA09>手电筒</color>~需要时可提供应急照明
-16~<color=#F05F5F>Micro H.I.D.</color>~充能时间：<color=#00FF00>3秒/7秒</color>\n秒伤：<color=#00FF00>400/1000</color>\n右键：<color=#00FF00>强制开门</color>\n<color=#FFFF00>+30%耐力消耗</color>\n<color=#EC2222>切勿长时间保持充能状态</color>
-17~<color=#8C0C0C>S<color=#9e0e0e>C<color=#B00F0F>P<color=#C21111>-<color=#D51212>5<color=#E71414>0<color=#EC2222>0</color>~<color=#00FF00>10秒内恢复200点生命值\n消除所有负面状态效果</color>
-18~<color=#8C0C0C>S<color=#9e0e0e>C<color=#B00F0F>P<color=#C21111>-<color=#D51212>2<color=#E71414>0<color=#EC2222>7</color>~<color=#00FF00>5秒后恢复30点生命值\n提升移动速度</color>\n<color=#F5650A>随时间持续损失生命值</color>\n<color=#EC2222>不宜与其他液体混合使用</color>
-20~<color=#6914B7>MTF-E11-SR步枪</color>
-21~<color=#6914B7>Crossvec冲锋枪</color>
-23~<color=#6914B7>FSP-9冲锋枪</color>
-24~<color=#6914B7>Logicer轻机枪</color>
-25~<color=#6761CE>高爆手雷</color>~<color=#00FF00>准备时间3.5秒\n1.5米内造成900-300点伤害\n对休谟护盾造成双倍伤害</color>\n<color=#FFFF00>施加灼伤和震荡效果</color>\n<color=#FF0000>对人类效果较弱</color>
-26~<color=#6761CE>闪光弹</color>~<color=#00FF00>准备时间2.8秒\n最大致盲时间5秒</color>\n<color=#FFFF00>施加闪光和致聋效果</color>
-30~<color=#6914B7>USP手枪</color>
-31~<color=#8C0C0C>S<color=#9E0E0E>C<color=#B00F0F>P<color=#C21111>-<color=#D51212>0<color=#E71414>1<color=#EC2222>8</color>~Blam-O公司制造\n<color=#F5650A>持续80秒</color>\n<color=#FF0000>速度越快造成伤害越高</color>
-32~<color=#8C0C0C>S<color=#9E0E0E>C<color=#B00F0F>P<color=#C21111>-<color=#D51212>2<color=#E71414>6<color=#EC2222>8</color>~<color=#00FF00>对普通目标隐形15秒</color>\n<color=#FFFF00>使用者进行交互时效果消失</color>
-33~<color=#498944>肾上腺素</color>~暂时提升耐力\n<color=#00FF00>+40额外生命值，缓慢衰减</color>\n<color=#FFFF00>恢复耐力，8秒内暂停耐力消耗</color>
-34~<color=#498944>止痛药</color>~缓解轻伤\n<color=#00FF00>15秒内恢复50点生命值</color>
-35~<color=#DFCa09>硬币</color>~哦嘿！一枚硬币！
+12~<color=#DFCA09>对讲机~允许通过设备进行远距离通信。\n通信范围可进行调整。</color>
+13~<color=#6914b7>COM-15 手枪</color>
+14~<color=#498944>急救包~治疗你的伤势。</color>
+15~<color=#DFCA09>手电筒~上帝说:“要有光！”</color>
+16~<color=#F05F5F>Micro H.I.D.~专门为收容异常而设计的重型放电装置。</color>
+17~<color=#8C0C0C>S<color=#9e0e0e>C<color=#B00F0F>P<color=#C21111>-<color=#D51212>5<color=#E71414>0<color=#EC2222>0~立即恢复所有生命值并治愈大多数病痛。</color>
+18~<color=#8C0C0C>S<color=#9e0e0e>C<color=#B00F0F>P<color=#C21111>-<color=#D51212>2<color=#E71414>0<color=#EC2222>7~提升行动能力，同时逐渐损坏你的身体。</color>
+20~<color=#6914B7>MTF-E11-SR 步枪</color>
+21~<color=#6914B7>Crossvec 冲锋枪</color>
+23~<color=#6914B7>FSP-9 冲锋枪</color>
+24~<color=#6914B7>Logicer 轻机枪</color>
+25~<color=#6761CE>高爆手雷~一种能造成大量伤害的高爆弹。\n投掷后会在短暂延迟后引爆。</color>
+26~<color=#6761CE>闪光弹~致盲并扰乱你的敌人。\n投掷后会在短暂延迟后引爆。</color>
+30~<color=#6914B7>COM-18 手枪</color>
+31~<color=#8C0C0C>S<color=#9E0E0E>C<color=#B00F0F>P<color=#C21111>-<color=#D51212>0<color=#E71414>1<color=#EC2222>8~具有极大势能的弹力球。\n在高速弹射时会造成致命伤害。</color>
+32~<color=#8C0C0C>S<color=#9E0E0E>C<color=#B00F0F>P<color=#C21111>-<color=#D51212>2<color=#E71414>6<color=#EC2222>8~戴上后短时间内"消失”，任何交互行为都将打断其效果。</color>
+33~<color=#498944>肾上腺素~暂时恢复体力并提升伤害抗性。</color>
+34~<color=#498944>止痛药~逐渐地恢复生命值。</color>
+35~<color=#DFCa09>硬币~你不确定为什么你会带着这个东西...</color>
 36~<color=#203e78>轻型护甲</color>
 37~<color=#203e78>战术护甲</color>
-38~<color=#203e78>重型护甲</color>
-39~<color=#6914b7>.44左轮手枪</color>
-40~<color=#6914b7>AK步枪</color>
-41~<color=#6914b7>DP-12霰弹枪</color>
-42~<color=#DFCa09>糖果袋</color>~内含以下糖果：
-43~<color=#7a0a0a>S<color=#8C0C0C>C<color=#9E0E0E>P<color=#b00f0f>-<color=#c21111>2<color=#d51212>1<color=#E71414>7<color=#EC2222>6</color>~<color=#00FF00>在受影响房间内切换<color=#8080ff>SCP-079</color>的<color=#FFFF00>能力</color>持续13秒</color>
-44~<color=#7A0B0B>S<color=#8C0C0C>C<color=#9E0E0E>P<color=#B00F0F>-<color=#c21111>2<color=#d51212>4<color=#E71414>4<color=#EC2222>-<color=#EE3434>A</color>~触感冰冷…\n<color=#FFFF00>范围效果</color>\n<color=#F5650A>减缓所有动作速度</color>\n<color=#FF0000>持续消耗休谟护盾与生命值</color>
-45~<color=#7A0B0B>S<color=#8C0C0C>C<color=#9E0E0E>P<color=#b00f0f>-<color=#c21111>2<color=#d51212>4<color=#E71414>4<color=#EC2222>-<color=#EE3434>B</color>~触感冰冷…\n<color=#FFFF00>范围效果</color>\n<color=#F5650A>减缓所有动作速度</color>\n<color=#FF0000>持续消耗休谟护盾与生命值</color>
-46~<color=#7A0B0B>S<color=#8C0C0C>C<color=#9E0E0E>P<color=#B00F0F>-<color=#C21111>1<color=#D51212>8<color=#E71414>5<color=#EC2222>3</color>~<color=#00FF00>+20%物品操作速度\n+25%后坐力控制\n+30%瞄准控制\n-60%拾取时间</color>\n<color=#EC2222>不宜与其他液体混合使用</color>
-47~<color=#F05F5F>3-X粒子干扰器</color>
-48~<color=#F05F5F>COM-45手枪</color>
-49~<color=#7a0a0a>S<color=#8C0C0C>C<color=#9E0E0E>P<color=#b00f0f>-<color=#c21111>1<color=#d51212>5<color=#E71414>7<color=#EC2222>6</color>~<color=#00FF00>与死者交谈30秒\n120秒冷却时间</color>
-50~<color=#F05F5F>囚鸟</color>
-51~<color=#F05F5F>A207</color>~<color=#8C0C0C>S<color=#9e0e0e>C<color=#B00F0F>P<color=#C21111>-<color=#D51212>2<color=#E71414>0<color=#EC2222>7</color>的反向版本\n<color=#00FF00>获得一次免死机会</color>
-52~<color=#6914B7>FR-MG-0轻机枪</color>
-53~<color=#6914B7>A7步枪</color>
-54~<color=#DFCA09>手提灯</color>~需要时可提供周围应急照明\n它的名字叫"Daniel"
-55~<color=#7A0B0B>S<color=#8C0C0C>C<color=#9E0E0E>P<color=#B00F0F>-<color=#C21111>1<color=#D51212>3<color=#E71414>4<color=#EC2222>4</color>~<color=#00FF00>可感知18米内任何人</color>\n<color=#F5650A>光球在1秒内淡出</color>\n<color=#F5650A>光球在5秒后淡入</color>\n<color=#EC2222>所有被你看到的人都会收到警示</color>
-56~雪球~<color=#00FF00>15/30点伤害\n2倍爆头伤害\n无视休谟护盾</color>
-57~煤块~你在淘气名单上！
-58~煤块？~将命中目标传送至<color=red>SCP</color>附近
-59~<color=#27E1D4>磁带播放器？</color>~内含未标记磁带请不要播放拜托了
-61~<color=#27E1D4>地表通行证</color>~一次性通行凭证，用于开启出口闸门
+38~<color=#203e78>重装护甲</color>
+39~<color=#6914b7>.44 左轮手枪</color>
+40~<color=#6914b7>AK 突击步枪</color>
+41~<color=#6914b7>霰弹枪</color>
+42~<color=#DFCa09>糖果袋~一个装着以下糖果的袋子：</color>
+43~<color=#7a0a0a>S<color=#8C0C0C>C<color=#9E0E0E>P<color=#b00f0f>-<color=#c21111>2<color=#d51212>1<color=#E71414>7<color=#EC2222>6~专属于你的鬼灯！\n注意：易碎品。\n破碎后会干扰电子设备。</color>
+44~<color=#7A0B0B>S<color=#8C0C0C>C<color=#9E0E0E>P<color=#B00F0F>-<color=#c21111>2<color=#d51212>4<color=#E71414>4<color=#EC2222>-<color=#EE3434>A~一个年代久远的花瓶，摸起来冰冰冷冷的。\n放置后会产生一大团冷凝水蒸汽。</color>
+45~<color=#7A0B0B>S<color=#8C0C0C>C<color=#9E0E0E>P<color=#b00f0f>-<color=#c21111>2<color=#d51212>4<color=#E71414>4<color=#EC2222>-<color=#EE3434>B~一个年代久远的花瓶，摸起来冰冰冷冷的。\n放置后会产生一大团冷凝水蒸汽。</color>
+46~<color=#7A0B0B>S<color=#8C0C0C>C<color=#9E0E0E>P<color=#B00F0F>-<color=#C21111>1<color=#D51212>8<color=#E71414>5<color=#EC2222>3~在生命受到威胁时，让你变得更加敏捷，同时提升人机功效。</color>
+47~<color=#F05F5F>3-X 分子裂解者~一把能发射强大的分解能量光束的奇怪武器。</color>
+48~<color=#F05F5F>COM-45 手枪</color>
+49~<color=#7a0a0a>S<color=#8C0C0C>C<color=#9E0E0E>P<color=#b00f0f>-<color=#c21111>1<color=#d51212>5<color=#E71414>7<color=#EC2222>6~允许暂时与死者交流。\n一段时间后可再次使用。</color>
+50~<color=#F05F5F>囚鸟~这啥啊?!</color>
+51~<color=#F05F5F>反向可乐~SCP-914的实验结果。有利于你的健康，有害于你的运动能力。关键时刻还能救你一命。</color>
+52~<color=#6914B7>FR-MG-0 轻机枪</color>
+53~<color=#6914B7>A7 步枪</color>
+54~<color=#DFCA09>手提灯~一个经典的煤油手提灯，上面刻有"Daniel"的名字。</color>
+55~<color=#7A0B0B>S<color=#8C0C0C>C<color=#9E0E0E>P<color=#B00F0F>-<color=#C21111>1<color=#D51212>3<color=#E71414>4<color=#EC2222>4~一副经过改装的护目镜，能够让您透过墙壁感知其他玩家的位置。一旦佩戴上，就绝不能摘下！</color>
+56~雪球
+57~煤块
+58~煤块?
+59~<color=#27E1D4>磁带播放器?~里面装有一份没有标签的磁带。\n求求不要播放它。求求你了。</color>
+61~<color=#27E1D4>地表通行证~可用于开启出口重型闸门的一次性通行凭证。</color>
 62~<color=#8C0C0C>S<color=#9e0e0e>C<color=#B00F0F>P<color=#C21111>-<color=#D51212>1<color=#E71414>2<color=#EC2222>7</color>
+68~<color=#7A0B0B>S<color=#8C0C0C>C<color=#9E0E0E>P<color=#B00F0F>-<color=#C21111>1<color=#D51212>5<color=#E71414>0<color=#EC2222>9~一把能造成中等伤害的刃器。用它杀死一名人类后会复活一名盟友。</color>

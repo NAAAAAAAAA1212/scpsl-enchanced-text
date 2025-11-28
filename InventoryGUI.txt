@@ -1,4 +1,4 @@
-弹药 [loaded]/[capacity] [type]
+弹药 {0}/{1} {2}
 伤害
 射速
 腰射精度
@@ -12,18 +12,19 @@
 移动速度
 物品上限:
 弹药上限:
-共计[amount]
+{0} 共计
 护甲穿透
 奔跑时射击精度
-按下 [key] 键发出奸笑声
-剩余电量: [percent]
-剩余弹药: [rem]
-按住 [primary] 使用快速射击模式
-按住 [secondary] 使用高能蓄力模式
-按下 [key] 切换射击模式
-按下 [key] 进行攻击
-按住 [key] 进行充能
-放电已就绪，按 [primary] 发射
-此武器已损坏，功能受限
-SCP-127的力量会随着您与它联结的加深而变得更强
-使用$方向键$或$[up], [left], [down], 以及[right]键$来控制蛇的移动
+按下 <color=#ff80bc><b>[key]</b></color> 发出奸笑声
+<voffset=-2.5em><size=150%>剩余电量: <size=175%><b>[percent]</b></size></voffset>
+<voffset=-2.5em><size=150%>剩余弹药: <size=175%><b>[rem]</b></size></voffset>
+<size=750%>\n</size>按住 <b>[primary]</b> 使用快速射击模式
+按住 <b>[secondary]</b> 使用高能蓄力模式
+<size=750%>\n</size><color=#00ff00><size=125%>「准备射击」</size></color>\n<size=80%>按 <b>[key]</b> 切换射击模式</size>
+<size=750%>\n</size>按下 <b>[key]</b> 进行攻击
+按住 <b>[key]</b> 进行充能
+<size=750%>\n</size><color=#00ff00><size=125%>「放电就绪」</size></color>\n<size=80%>按 <b>[primary]</b> 发射</size>
+<size=750%>\n</size><color=yellow>⚠</color> - 微型高频电流放射器已损坏 - <color=yellow>⚠</color>\n<size=80%>功能受限</size>
+<color=red>SCP-127</color> 的力量会随着您与它联结的加深而变得更强
+使用$方向键$或$[up], [left], [down], 以及[right]$键来控制蛇的移动
+按下 <color=#ff80bc><b>[key]</b></color> 发出奸笑声

@@ -1,9 +1,9 @@
 自定义
 预设 #[index]
-保存
+保 存
 清空配件配置
 默认配置
-预设
+预 设
 <size=275><color=#ff0000>🔒</color>
 <size=64><color=#ccc>SITE-02 枪械配置自定义点</color>\n<size=34><color=#ccc>仅限已授权人员</color></size>
 <size=275><color=orange>🔒</color></size>

@@ -1,32 +1,32 @@
-<color=#70C3FF>机动特遣队Epsilon-11</color> | 代号<color=#0049F1>[designation]</color> | 
-<color=#EC2222>[count]个SCP项目</color>
-<color=#EC2222>1个SCP项目</color>
-<color=#F5650A>安全威胁依然存在</color> —— <color=#EC2222>请保持警惕</color>
-已消灭<color=#f5650A>原因不明</color>
-被<color=#EC2222>SCP-[scp]</color>消灭
-被<color=#f5650A>自动安保系统</color>消灭
-被<color=#f5650A>Alpha核弹头</color>消灭
+<color=#70C3FF>机动特遣部队Epsilon-11</color> | <color=#0049F1>代号[designation]小队</color> | 
+<color=#EC2222>[count]个SCP项目等待收容</color>
+<color=#EC2222>1个SCP项目等待收容</color>
+<color=#F5650A>设施内仍存在重大安全威胁</color> -- <color=#EC2222>请保持谨慎</color>
+已确认消灭 <color=#f5650A>原因不明</color>
+被 <color=#EC2222>SCP-[scp]</color> 消灭
+被 <color=#f5650A>自动安保系统</color> 消灭
+被 <color=#f5650A>Alpha核弹头</color> 消灭
 已收容 | <color=#FFFF7C>科研人员</color>
 已收容 | <color=#FF8E00>D级人员</color>
 已收容 | <color=#008F1E>混沌分裂者</color>
 <color=#EC2222>SCP-[scp]</color>
 已收容 | <color=#D2D4C1>收容单位未知</color>
-已收容 | <color=#0049F1>[designation]收容小队</color>
-在净化程序中清除
-<color=#F5650A>[current]</color>/<color=#F5650A>[max]</color>台发电机已激活
+已收容 | <color=#0049F1>[designation]收容单位</color>
+在净化程序中被清除
+<color=#F5650A>[current]</color>/<color=#F5650A>[max]</color>个发电机已激活
 <split>所有发电机已成功启动
-<color=#AD0606>过载倒计时3...2...1...</color>
+<color=#AD0606>电力过载倒计时 3... 2... 1...</color>
 设施已恢复运作模式
-<color=#E8A925>注意，</color>紧急程序<color=#FFA4A4>P-B-3</color>将在<color=#F5650A>T-15分钟</color>后启动
-<color=#E8A925>警告，</color><color=#FFA4A4>轻收容区净化程序</color>将于<color=#EC2222>T-[time]分钟</color>后启动
-<color=#F5650A>警告，</color><color=#FFA4A4>轻收容区净化程序</color>将于<color=#EC2222>T-1分钟</color>后启动
-<color=#AD0606>警告，</color><color=#FFA4A4>轻收容区净化程序</color>将于<color=#EC2222>T-30秒</color>后启动<split><color=#F5650A>请立即撤离</color>
-<color=#FFA4A4>轻收容区</color>已<color=#F5650A>封锁</color>并准备净化<split>有机物质清除程序现已开始
-<color=#F5650A>紧急程序P-B-4<color=#EC2222>已启动</color> | <color=#F5650A>地下层引爆倒计时<color=#EC2222>T-[time]秒</color>
-<color=#F5650A>引爆已取消系统重启中...</color>
-<color=#F5650A>引爆已恢复</color> | <color=#EC2222>T-[time]秒</color>
-被<color=#f5650A>棉花糖人</color>消灭
-<color=#70C3FF>九尾狐增援部队</color> | 代号<color=#0049F1>[designation]</color> | 
-<color=#EC2222>安全警报</color> | 侦测到<color=#008F1E>混沌分裂者</color>活动——<color=#F5650A>请执行标准协议</color>
-<color=#F5650A>注意</color> | <color=#008F1E>混沌分裂者</color> | <color=#FFFF7C>A号大门</color>
-收到<color=#000000>O5</color>指令：系统核<color=#DC143C>已启动</color>
+<color=#E8A925>注意，</color>紧急程序<color=#FFA4A4>P-B-3</color>将在<color=#F5650A>T-15分钟后</color>启动
+<color=#E8A925>警告</color>，<color=#FFA4A4>轻收容区净化程序</color>将在<color=#EC2222>T-[time]分钟后</color>启动
+<color=#F5650A>警告</color>，<color=#FFA4A4>轻收容区净化程序</color>将在<color=#EC2222>T-1分钟后</color>启动
+<color=#AD0606>危险</color>，<color=#FFA4A4>轻收容区净化程序</color>将在<color=#EC2222>T-30秒后</color>启动<split><color=#F5650A>请立即撤离</color>
+<color=#FFA4A4>轻收容区</color>已<color=#F5650A>封锁</color>并准备净化<split>生物质清除程序现已开始
+<color=#F5650A>紧急程序P-B-4<color=#EC2222>已启动</color> | <color=#F5650A>地下层自毁倒计时<color=#EC2222>T-[time]秒</color>
+<color=#F5650A>引爆取消，系统重启中...</color>
+<color=#F5650A>引爆程序恢复</color> | <color=#EC2222>T-[time]秒</color>
+被 <color=#f5650A>棉花糖人</color> 消灭
+<color=#70C3FF>九尾狐增援部队</color> | 
+<color=#EC2222>注意</color> | [number]名<color=#008F1E>混沌分裂者</color>出现在<color=#FFFF7C>A大门</color> | <color=#F5650A>已授权使用致命武力</color>
+新增[number]名<color=#008F1E>混沌分裂者</color>在<color=#FFFF7C>A大门</color> | 防御模型已更新
+<color=#FFFF7C>站点</color>恢复<color=#EC2222>失败</color> — <color=#F5650A>死人开关已激活</color><split><color=#F5650A>本设施地下层<b>即将</b>自毁，倒计时：</color> <color=#EC2222>T-[time]秒</color>
